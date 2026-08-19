@@ -34,7 +34,7 @@ cd dashboard && npm run dev
 
 # Terminal 3 — Pipeline (scrape + match + apply)
 npm start
-```
+
 
 First run: log in to Naukri manually in the browser window that opens (session is saved for future runs).
 
@@ -71,8 +71,6 @@ Once matching finishes, open the dashboard, review scored jobs, and click **Appr
 - [x] Phase 4 — AI Resume Matching
 - [x] Phase 5 — Human Review + Auto Apply
 - [x] Phase 6 — Dashboard (React + Express + MongoDB)
-- [ ] Phase 7 — Docker + CI/CD
-- [ ] Phase 8 — Multi-portal support (LinkedIn, Indeed, Wellfound)
 
 ---
 
