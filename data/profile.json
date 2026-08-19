@@ -1,0 +1,10 @@
+{
+  "name": "Vishnu Chaurasiya",
+  "experienceYears": 2.5,
+  "skills": ["React.js", "Node.js", "Express.js", "MongoDB", "JavaScript", "TypeScript", "REST APIs", "Socket.IO", "JWT Authentication", "MySQL", "Git"],
+  "noticePeriod": "Immediate",
+  "currentLocation": "Gorakhpur",
+  "preferredLocations": ["Noida", "Greater Noida", "Delhi NCR", "Bangalore", "Hyderabad", "Pune"],
+  "expectedCTC": "Negotiable",
+  "targetRoles": ["MERN Stack Developer", "Full Stack Developer", "React.js Developer", "Frontend Developer", "Node.js Developer"]
+}
