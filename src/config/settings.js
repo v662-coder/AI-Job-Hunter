@@ -51,7 +51,7 @@ const settings = Object.freeze({
     },
 
     apply: {
-        maxApplicationsPerRun: 15,
+        maxApplicationsPerRun: 35,
         applyButtonSelectors: [
             "#apply-button",
             ".styles_apply-button__uUuHl",
@@ -64,7 +64,7 @@ const settings = Object.freeze({
         location: "India",
         searchExperience: 0,   // search broadly from freshers upward
         maxAcceptableExperience: 3,  // keep jobs whose minimum required exp is <= 3
-        postedWithinDays: 1,
+        postedWithinDays: 2,
         roles: [
             { key: "software-engineer", label: "Software Engineer" },
             { key: "frontend-developer", label: "Frontend Developer" },

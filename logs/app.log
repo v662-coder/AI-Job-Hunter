@@ -1900,3 +1900,562 @@
 [19/8/2026, 16:40:10] [WARN] Browser context closed.
 [19/8/2026, 16:40:11] [SUCCESS] Browser closed gracefully.
 [19/8/2026, 16:40:11] [INFO] MongoDB connection closed.
+[19/8/2026, 17:13:55] [INFO] AI Job Hunter v1.0.0 starting...
+[19/8/2026, 17:13:55] [SUCCESS] Environment validation passed.
+[19/8/2026, 17:13:55] [SUCCESS] All required directories verified/created.
+[19/8/2026, 17:13:55] [SUCCESS] Connected to MongoDB Atlas.
+[19/8/2026, 17:13:56] [SUCCESS] Resume parsed (5551 characters).
+[19/8/2026, 17:13:56] [INFO] Launching browser...
+[19/8/2026, 17:14:00] [SUCCESS] Browser launched with persistent session.
+[19/8/2026, 17:14:00] [INFO] Checking Naukri login status...
+[19/8/2026, 17:14:01] [WARN] Not logged in. Opening login page for manual login...
+[19/8/2026, 17:14:01] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[19/8/2026, 17:14:04] [SUCCESS] Login detected. Session will be reused next time.
+[19/8/2026, 17:14:04] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:14:07] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[19/8/2026, 17:14:10] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:14:13] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[19/8/2026, 17:14:15] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:14:17] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[19/8/2026, 17:14:20] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:14:21] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[19/8/2026, 17:14:25] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:14:27] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[19/8/2026, 17:14:30] [SUCCESS] Total jobs collected across all roles: 100
+[19/8/2026, 17:14:38] [SUCCESS] 100 job(s) processed into database.
+[19/8/2026, 17:14:38] [INFO] Matching 4 unmatched job(s)...
+[19/8/2026, 17:14:38] [ERROR] Matching failed for "Front-End React-Js Developer": 404 The model `gpt-4o-mini` does not exist or you do not have access to it.
+[19/8/2026, 17:14:38] [WARN] Match failed for "Front-End React-Js Developer": Failed to match resume to job
+[19/8/2026, 17:14:38] [ERROR] Matching failed for "Backend Developer": 404 The model `gpt-4o-mini` does not exist or you do not have access to it.
+[19/8/2026, 17:14:38] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[19/8/2026, 17:14:38] [ERROR] Matching failed for "Fullstack Developer Intern": 404 The model `gpt-4o-mini` does not exist or you do not have access to it.
+[19/8/2026, 17:14:38] [WARN] Match failed for "Fullstack Developer Intern": Failed to match resume to job
+[19/8/2026, 17:14:39] [ERROR] Matching failed for "Junior MERN Developer": 404 The model `gpt-4o-mini` does not exist or you do not have access to it.
+[19/8/2026, 17:14:39] [WARN] Match failed for "Junior MERN Developer": Failed to match resume to job
+[19/8/2026, 17:14:39] [INFO] No approved jobs pending application. Check the dashboard to approve some.
+[19/8/2026, 17:14:39] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[19/8/2026, 17:14:39] [WARN] Browser context closed.
+[19/8/2026, 17:14:39] [SUCCESS] Browser closed gracefully.
+[19/8/2026, 17:14:39] [INFO] MongoDB connection closed.
+[19/8/2026, 17:18:16] [INFO] AI Job Hunter v1.0.0 starting...
+[19/8/2026, 17:18:16] [SUCCESS] Environment validation passed.
+[19/8/2026, 17:18:16] [SUCCESS] All required directories verified/created.
+[19/8/2026, 17:18:17] [SUCCESS] Connected to MongoDB Atlas.
+[19/8/2026, 17:18:17] [SUCCESS] Resume parsed (5551 characters).
+[19/8/2026, 17:18:17] [INFO] Launching browser...
+[19/8/2026, 17:18:19] [SUCCESS] Browser launched with persistent session.
+[19/8/2026, 17:18:20] [INFO] Checking Naukri login status...
+[19/8/2026, 17:18:20] [WARN] Not logged in. Opening login page for manual login...
+[19/8/2026, 17:18:21] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[19/8/2026, 17:18:24] [SUCCESS] Login detected. Session will be reused next time.
+[19/8/2026, 17:18:24] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:18:27] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[19/8/2026, 17:18:30] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:18:32] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[19/8/2026, 17:18:35] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:18:38] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[19/8/2026, 17:18:40] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:18:43] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[19/8/2026, 17:18:47] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:18:48] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[19/8/2026, 17:18:52] [SUCCESS] Total jobs collected across all roles: 100
+[19/8/2026, 17:18:59] [SUCCESS] 100 job(s) processed into database.
+[19/8/2026, 17:18:59] [INFO] Matching 4 unmatched job(s)...
+[19/8/2026, 17:19:02] [SUCCESS] [1/4] Front-End React-Js Developer — 88/100
+[19/8/2026, 17:19:03] [SUCCESS] [2/4] Backend Developer — 85/100
+[19/8/2026, 17:19:04] [SUCCESS] [3/4] Fullstack Developer Intern — 88/100
+[19/8/2026, 17:19:07] [SUCCESS] [4/4] Junior MERN Developer — 92/100
+[19/8/2026, 17:19:07] [INFO] No approved jobs pending application. Check the dashboard to approve some.
+[19/8/2026, 17:19:07] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[19/8/2026, 17:19:07] [WARN] Browser context closed.
+[19/8/2026, 17:19:07] [SUCCESS] Browser closed gracefully.
+[19/8/2026, 17:19:07] [INFO] MongoDB connection closed.
+[19/8/2026, 17:19:37] [INFO] AI Job Hunter v1.0.0 starting...
+[19/8/2026, 17:19:37] [SUCCESS] Environment validation passed.
+[19/8/2026, 17:19:37] [SUCCESS] All required directories verified/created.
+[19/8/2026, 17:19:38] [SUCCESS] Connected to MongoDB Atlas.
+[19/8/2026, 17:19:38] [SUCCESS] Resume parsed (5551 characters).
+[19/8/2026, 17:19:38] [INFO] Launching browser...
+[19/8/2026, 17:19:40] [SUCCESS] Browser launched with persistent session.
+[19/8/2026, 17:19:40] [INFO] Checking Naukri login status...
+[19/8/2026, 17:19:41] [WARN] Not logged in. Opening login page for manual login...
+[19/8/2026, 17:19:41] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[19/8/2026, 17:19:46] [SUCCESS] Login detected. Session will be reused next time.
+[19/8/2026, 17:19:46] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:19:49] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[19/8/2026, 17:19:52] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:19:55] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[19/8/2026, 17:19:58] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:20:00] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[19/8/2026, 17:20:02] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:20:05] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[19/8/2026, 17:20:08] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=1
+[19/8/2026, 17:20:10] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[19/8/2026, 17:20:13] [SUCCESS] Total jobs collected across all roles: 100
+[19/8/2026, 17:20:20] [SUCCESS] 100 job(s) processed into database.
+[19/8/2026, 17:20:20] [INFO] Matching 0 unmatched job(s)...
+[19/8/2026, 17:20:20] [INFO] Applying to 4 approved job(s)...
+[19/8/2026, 17:20:20] [INFO] [1/4] Processing application...
+[19/8/2026, 17:20:20] [INFO] Applying to: Front-End React-Js Developer @ Consta Cloud
+[19/8/2026, 17:20:25] [DEBUG] No file upload input found (likely using profile resume).
+[19/8/2026, 17:20:25] [DEBUG] No screening questions popup detected.
+[19/8/2026, 17:20:28] [DEBUG] Screenshot saved: C:\Users\91799\Desktop\Ai-Job-Search-hunter\screenshots\applied-Front-End React-Js D_id_1787140225953_djzhm3.png
+[19/8/2026, 17:20:28] [SUCCESS] Applied successfully: Front-End React-Js Developer @ Consta Cloud
+[19/8/2026, 17:20:32] [INFO] [2/4] Processing application...
+[19/8/2026, 17:20:32] [INFO] Applying to: Backend Developer @ STUTZEN
+[19/8/2026, 17:20:34] [WARN] No apply button found for "Backend Developer". Skipping.
+[19/8/2026, 17:20:35] [DEBUG] Screenshot saved: C:\Users\91799\Desktop\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1787140234744_3xz4bf.png
+[19/8/2026, 17:20:38] [INFO] [3/4] Processing application...
+[19/8/2026, 17:20:38] [INFO] Applying to: Fullstack Developer Intern @ Cloudmotiv It Technologies
+[19/8/2026, 17:20:42] [SUCCESS] Resume uploaded via file input.
+[19/8/2026, 17:20:42] [WARN] Screening questions popup detected. Please answer manually in the browser window.
+[19/8/2026, 17:21:39] [DEBUG] Screenshot saved: C:\Users\91799\Desktop\Ai-Job-Search-hunter\screenshots\applied-Fullstack Developer _id_1787140298529_2lnrei.png
+[19/8/2026, 17:21:39] [SUCCESS] Applied successfully: Fullstack Developer Intern @ Cloudmotiv It Technologies
+[19/8/2026, 17:21:42] [INFO] [4/4] Processing application...
+[19/8/2026, 17:21:42] [INFO] Applying to: Junior MERN Developer @ Bootcoding
+[19/8/2026, 17:21:44] [WARN] No apply button found for "Junior MERN Developer". Skipping.
+[19/8/2026, 17:21:45] [DEBUG] Screenshot saved: C:\Users\91799\Desktop\Ai-Job-Search-hunter\screenshots\no-apply-button-Junior MERN Develope_id_1787140304825_irrbz8.png
+[19/8/2026, 17:21:50] [SUCCESS] 2/4 application(s) submitted.
+[19/8/2026, 17:21:50] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[19/8/2026, 17:21:50] [WARN] Browser context closed.
+[19/8/2026, 17:21:51] [SUCCESS] Browser closed gracefully.
+[19/8/2026, 17:21:51] [INFO] MongoDB connection closed.
+[19/8/2026, 20:07:19] [ERROR] GET /jobs/stats failed: write ECONNABORTED
+[21/8/2026, 08:39:58] [SUCCESS] Connected to MongoDB Atlas.
+[21/8/2026, 08:39:58] [SUCCESS] API server running on http://localhost:5000
+[21/8/2026, 08:42:08] [INFO] AI Job Hunter v1.0.0 starting...
+[21/8/2026, 08:42:08] [SUCCESS] Environment validation passed.
+[21/8/2026, 08:42:08] [SUCCESS] All required directories verified/created.
+[21/8/2026, 08:42:09] [SUCCESS] Connected to MongoDB Atlas.
+[21/8/2026, 08:42:09] [SUCCESS] Resume parsed (5551 characters).
+[21/8/2026, 08:42:09] [INFO] Launching browser...
+[21/8/2026, 08:42:14] [SUCCESS] Browser launched with persistent session.
+[21/8/2026, 08:42:14] [INFO] Checking Naukri login status...
+[21/8/2026, 08:42:16] [WARN] Not logged in. Opening login page for manual login...
+[21/8/2026, 08:42:16] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[21/8/2026, 08:42:20] [SUCCESS] Login detected. Session will be reused next time.
+[21/8/2026, 08:42:20] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=2
+[21/8/2026, 08:42:25] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[21/8/2026, 08:42:28] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=2
+[21/8/2026, 08:42:30] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[21/8/2026, 08:42:32] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=2
+[21/8/2026, 08:42:35] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[21/8/2026, 08:42:38] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=2
+[21/8/2026, 08:42:40] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[21/8/2026, 08:42:44] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=2
+[21/8/2026, 08:42:46] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[21/8/2026, 08:42:49] [SUCCESS] Total jobs collected across all roles: 100
+[21/8/2026, 08:42:57] [SUCCESS] 100 job(s) processed into database.
+[21/8/2026, 08:42:57] [INFO] Matching 10 unmatched job(s)...
+[21/8/2026, 08:42:58] [SUCCESS] [1/10] Software Engineer — 85/100
+[21/8/2026, 08:43:00] [SUCCESS] [2/10] Software Engineer — 85/100
+[21/8/2026, 08:43:01] [SUCCESS] [3/10] Software Engineer at A FinTech Company — 25/100
+[21/8/2026, 08:43:02] [SUCCESS] [4/10] Software Engineer — 60/100
+[21/8/2026, 08:43:06] [SUCCESS] [5/10] Software Engineer - APM — 20/100
+[21/8/2026, 08:43:19] [SUCCESS] [6/10] Frontend Developer — 88/100
+[21/8/2026, 08:43:35] [SUCCESS] [7/10] Frontend Developer — 88/100
+[21/8/2026, 08:43:53] [SUCCESS] [8/10] Web Developer ( React & Next js) — 80/100
+[21/8/2026, 08:44:10] [SUCCESS] [9/10] Web Developer ( React & Next js) — 80/100
+[21/8/2026, 08:44:26] [SUCCESS] [10/10] Full Stack Developer — 90/100
+[21/8/2026, 08:44:26] [INFO] No approved jobs pending application. Check the dashboard to approve some.
+[21/8/2026, 08:44:26] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[21/8/2026, 08:44:27] [WARN] Browser context closed.
+[21/8/2026, 08:44:28] [SUCCESS] Browser closed gracefully.
+[21/8/2026, 08:44:28] [INFO] MongoDB connection closed.
+[21/8/2026, 08:53:37] [INFO] AI Job Hunter v1.0.0 starting...
+[21/8/2026, 08:53:37] [SUCCESS] Environment validation passed.
+[21/8/2026, 08:53:37] [SUCCESS] All required directories verified/created.
+[21/8/2026, 08:53:39] [SUCCESS] Connected to MongoDB Atlas.
+[21/8/2026, 08:53:40] [SUCCESS] Resume parsed (5551 characters).
+[21/8/2026, 08:53:40] [INFO] Launching browser...
+[21/8/2026, 08:53:41] [SUCCESS] Browser launched with persistent session.
+[21/8/2026, 08:53:41] [INFO] Checking Naukri login status...
+[21/8/2026, 08:53:42] [WARN] Not logged in. Opening login page for manual login...
+[21/8/2026, 08:53:43] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[21/8/2026, 08:53:46] [SUCCESS] Login detected. Session will be reused next time.
+[21/8/2026, 08:53:46] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=2
+[21/8/2026, 08:53:49] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[21/8/2026, 08:53:53] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=2
+[21/8/2026, 08:53:56] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[21/8/2026, 08:53:58] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=2
+[21/8/2026, 08:54:00] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[21/8/2026, 08:54:03] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=2
+[21/8/2026, 08:54:06] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[21/8/2026, 08:54:08] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=2
+[21/8/2026, 08:54:11] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[21/8/2026, 08:54:14] [SUCCESS] Total jobs collected across all roles: 100
+[21/8/2026, 08:54:21] [SUCCESS] 100 job(s) processed into database.
+[21/8/2026, 08:54:22] [INFO] Matching 0 unmatched job(s)...
+[21/8/2026, 08:54:22] [INFO] Applying to 10 approved job(s)...
+[21/8/2026, 08:54:22] [INFO] [1/10] Processing application...
+[21/8/2026, 08:54:22] [INFO] Applying to: Software Engineer @ Capgemini
+[21/8/2026, 08:54:28] [DEBUG] No file upload input found (likely using profile resume).
+[21/8/2026, 08:54:28] [DEBUG] No screening questions popup detected.
+[21/8/2026, 08:54:30] [DEBUG] Screenshot saved: C:\Users\91799\Desktop\Ai-Job-Search-hunter\screenshots\applied-Software Engineer_id_1787282668172_qxbi6k.png
+[21/8/2026, 08:54:30] [SUCCESS] Applied successfully: Software Engineer @ Capgemini
+[21/8/2026, 08:54:34] [INFO] [2/10] Processing application...
+[21/8/2026, 08:54:34] [INFO] Applying to: Software Engineer @ ANZ
+[21/8/2026, 08:54:36] [WARN] No apply button found for "Software Engineer". Skipping.
+[21/8/2026, 08:54:37] [DEBUG] Screenshot saved: C:\Users\91799\Desktop\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer_id_1787282676753_kd85bh.png
+[21/8/2026, 08:54:42] [INFO] [3/10] Processing application...
+[21/8/2026, 08:54:42] [INFO] Applying to: Software Engineer at A FinTech Company @ Talentzo Delhi
+[21/8/2026, 08:54:47] [DEBUG] No file upload input found (likely using profile resume).
+[21/8/2026, 08:54:47] [DEBUG] No screening questions popup detected.
+[21/8/2026, 08:54:49] [DEBUG] Screenshot saved: C:\Users\91799\Desktop\Ai-Job-Search-hunter\screenshots\applied-Software Engineer at_id_1787282687840_ko57vi.png
+[21/8/2026, 08:54:49] [SUCCESS] Applied successfully: Software Engineer at A FinTech Company @ Talentzo Delhi
+[21/8/2026, 08:54:52] [INFO] [4/10] Processing application...
+[21/8/2026, 08:54:52] [INFO] Applying to: Software Engineer @ Cisco
+[21/8/2026, 08:54:55] [WARN] No apply button found for "Software Engineer". Skipping.
+[21/8/2026, 08:54:56] [DEBUG] Screenshot saved: C:\Users\91799\Desktop\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer_id_1787282695619_oomwjn.png
+[21/8/2026, 08:55:00] [INFO] [5/10] Processing application...
+[21/8/2026, 08:55:00] [INFO] Applying to: Software Engineer - APM @ IonIdea
+[21/8/2026, 08:55:03] [WARN] No apply button found for "Software Engineer - APM". Skipping.
+[21/8/2026, 08:55:03] [DEBUG] Screenshot saved: C:\Users\91799\Desktop\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer - _id_1787282703206_gjospi.png
+[21/8/2026, 08:55:07] [INFO] [6/10] Processing application...
+[21/8/2026, 08:55:07] [INFO] Applying to: Frontend Developer @ Infizius
+[21/8/2026, 08:55:09] [WARN] No apply button found for "Frontend Developer". Skipping.
+[21/8/2026, 08:55:10] [DEBUG] Screenshot saved: C:\Users\91799\Desktop\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1787282709523_vgsbjr.png
+[21/8/2026, 08:55:14] [INFO] [7/10] Processing application...
+[21/8/2026, 08:55:14] [INFO] Applying to: Frontend Developer @ Acetrot
+[21/8/2026, 08:55:17] [WARN] No apply button found for "Frontend Developer". Skipping.
+[21/8/2026, 08:55:17] [DEBUG] Screenshot saved: C:\Users\91799\Desktop\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1787282717302_z47nnv.png
+[21/8/2026, 08:55:21] [INFO] [8/10] Processing application...
+[21/8/2026, 08:55:21] [INFO] Applying to: Web Developer ( React & Next js) @ Shashwath Solution
+[21/8/2026, 08:55:26] [DEBUG] No file upload input found (likely using profile resume).
+[21/8/2026, 08:55:26] [DEBUG] No screening questions popup detected.
+[21/8/2026, 08:55:28] [DEBUG] Screenshot saved: C:\Users\91799\Desktop\Ai-Job-Search-hunter\screenshots\applied-Web Developer ( Reac_id_1787282726979_bac2gn.png
+[21/8/2026, 08:55:28] [SUCCESS] Applied successfully: Web Developer ( React & Next js) @ Shashwath Solution
+[21/8/2026, 08:55:32] [INFO] [9/10] Processing application...
+[21/8/2026, 08:55:32] [INFO] Applying to: Web Developer ( React & Next js) @ Shashwath Solution
+[21/8/2026, 08:55:37] [DEBUG] No file upload input found (likely using profile resume).
+[21/8/2026, 08:55:37] [DEBUG] No screening questions popup detected.
+[21/8/2026, 08:55:37] [DEBUG] Screenshot saved: C:\Users\91799\Desktop\Ai-Job-Search-hunter\screenshots\applied-Web Developer ( Reac_id_1787282737565_6h4lbn.png
+[21/8/2026, 08:55:37] [SUCCESS] Applied successfully: Web Developer ( React & Next js) @ Shashwath Solution
+[21/8/2026, 08:55:40] [INFO] [10/10] Processing application...
+[21/8/2026, 08:55:40] [INFO] Applying to: Full Stack Developer @ Toprankers
+[21/8/2026, 08:55:43] [WARN] No apply button found for "Full Stack Developer". Skipping.
+[21/8/2026, 08:55:44] [DEBUG] Screenshot saved: C:\Users\91799\Desktop\Ai-Job-Search-hunter\screenshots\no-apply-button-Full Stack Developer_id_1787282743378_ho940q.png
+[21/8/2026, 08:55:48] [SUCCESS] 4/10 application(s) submitted.
+[21/8/2026, 08:55:48] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[21/8/2026, 08:55:49] [WARN] Browser context closed.
+[21/8/2026, 08:55:49] [SUCCESS] Browser closed gracefully.
+[21/8/2026, 08:55:49] [INFO] MongoDB connection closed.
+[27/8/2026, 10:57:50] [SUCCESS] Connected to MongoDB Atlas.
+[27/8/2026, 10:57:50] [SUCCESS] API server running on http://localhost:5000
+[27/8/2026, 10:58:10] [INFO] AI Job Hunter v1.0.0 starting...
+[27/8/2026, 10:58:10] [SUCCESS] Environment validation passed.
+[27/8/2026, 10:58:10] [SUCCESS] All required directories verified/created.
+[27/8/2026, 10:58:11] [SUCCESS] Connected to MongoDB Atlas.
+[27/8/2026, 10:58:11] [SUCCESS] Resume parsed (5551 characters).
+[27/8/2026, 10:58:11] [INFO] Launching browser...
+[27/8/2026, 10:58:13] [SUCCESS] Browser launched with persistent session.
+[27/8/2026, 10:58:13] [INFO] Checking Naukri login status...
+[27/8/2026, 10:58:14] [WARN] Not logged in. Opening login page for manual login...
+[27/8/2026, 10:58:15] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[27/8/2026, 10:58:18] [SUCCESS] Login detected. Session will be reused next time.
+[27/8/2026, 10:58:18] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=2
+[27/8/2026, 10:58:21] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[27/8/2026, 10:58:24] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=2
+[27/8/2026, 10:58:27] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[27/8/2026, 10:58:29] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=2
+[27/8/2026, 10:58:32] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[27/8/2026, 10:58:35] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=2
+[27/8/2026, 10:58:37] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[27/8/2026, 10:58:40] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=2
+[27/8/2026, 10:58:43] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[27/8/2026, 10:58:46] [SUCCESS] Total jobs collected across all roles: 100
+[27/8/2026, 10:58:53] [SUCCESS] 100 job(s) processed into database.
+[27/8/2026, 10:58:53] [INFO] Matching 21 unmatched job(s)...
+[27/8/2026, 10:58:55] [SUCCESS] [1/21] Software Engineer — 65/100
+[27/8/2026, 10:58:56] [SUCCESS] [2/21] Software Engineer — 85/100
+[27/8/2026, 10:58:58] [ERROR] Matching failed for "Software Engineer": Unexpected end of JSON input
+[27/8/2026, 10:58:58] [WARN] Match failed for "Software Engineer": Failed to match resume to job
+[27/8/2026, 10:58:59] [SUCCESS] [4/21] Software engineer F3 flow — 30/100
+[27/8/2026, 10:59:15] [SUCCESS] [5/21] Software Engineer Fresher — 85/100
+[27/8/2026, 10:59:27] [ERROR] Matching failed for "Software Engineer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 6114, Requested 1893. Please try again in 52.5ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[27/8/2026, 10:59:27] [WARN] Match failed for "Software Engineer": Failed to match resume to job
+[27/8/2026, 10:59:28] [SUCCESS] [7/21] Software Engineer — 90/100
+[27/8/2026, 10:59:45] [SUCCESS] [8/21] Software Engineer — 85/100
+[27/8/2026, 11:00:05] [SUCCESS] [9/21] Software Engineer [ SE ] — 85/100
+[27/8/2026, 11:00:07] [SUCCESS] [10/21] Software Engineer, New Grad — 80/100
+[27/8/2026, 11:00:26] [SUCCESS] [11/21] Software Engineer — 60/100
+[27/8/2026, 11:00:38] [SUCCESS] [12/21] Frontend Developer — 85/100
+[27/8/2026, 11:00:58] [SUCCESS] [13/21] React, MEAN/MERN & Node.js Developers - Freshers(Chennai) — 85/100
+[27/8/2026, 11:01:15] [SUCCESS] [14/21] React Js Developer -PET(Freshers) — 85/100
+[27/8/2026, 11:01:33] [SUCCESS] [15/21] Web Developers ( Python Full Stack , MERN Stack ) _ 24, 5, 6 Freshers — 70/100
+[27/8/2026, 11:01:45] [SUCCESS] [16/21] Fullstack Developer — 88/100
+[27/8/2026, 11:01:59] [SUCCESS] [17/21] Jr. Software Engineers MERN Stack — 95/100
+[27/8/2026, 11:02:06] [SUCCESS] [18/21] MERN Stack Developer — 92/100
+[27/8/2026, 11:02:21] [SUCCESS] [19/21] Backend Developer — 30/100
+[27/8/2026, 11:02:34] [SUCCESS] [20/21] Backend Developer — 30/100
+[27/8/2026, 11:02:47] [SUCCESS] [21/21] Backend Developer — 88/100
+[27/8/2026, 11:02:47] [INFO] No approved jobs pending application. Check the dashboard to approve some.
+[27/8/2026, 11:02:47] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[27/8/2026, 11:02:47] [WARN] Browser context closed.
+[27/8/2026, 11:02:48] [SUCCESS] Browser closed gracefully.
+[27/8/2026, 11:02:48] [INFO] MongoDB connection closed.
+[27/8/2026, 11:03:51] [INFO] AI Job Hunter v1.0.0 starting...
+[27/8/2026, 11:03:51] [SUCCESS] Environment validation passed.
+[27/8/2026, 11:03:51] [SUCCESS] All required directories verified/created.
+[27/8/2026, 11:03:52] [SUCCESS] Connected to MongoDB Atlas.
+[27/8/2026, 11:03:52] [SUCCESS] Resume parsed (5551 characters).
+[27/8/2026, 11:03:52] [INFO] Launching browser...
+[27/8/2026, 11:03:54] [SUCCESS] Browser launched with persistent session.
+[27/8/2026, 11:03:54] [INFO] Checking Naukri login status...
+[27/8/2026, 11:03:55] [WARN] Not logged in. Opening login page for manual login...
+[27/8/2026, 11:03:55] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[27/8/2026, 11:03:58] [SUCCESS] Login detected. Session will be reused next time.
+[27/8/2026, 11:03:58] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=2
+[27/8/2026, 11:04:01] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[27/8/2026, 11:04:04] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=2
+[27/8/2026, 11:04:06] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[27/8/2026, 11:04:10] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=2
+[27/8/2026, 11:04:12] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[27/8/2026, 11:04:14] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=2
+[27/8/2026, 11:04:17] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[27/8/2026, 11:04:20] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=2
+[27/8/2026, 11:04:23] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[27/8/2026, 11:04:25] [SUCCESS] Total jobs collected across all roles: 100
+[27/8/2026, 11:04:31] [SUCCESS] 100 job(s) processed into database.
+[27/8/2026, 11:04:31] [INFO] Matching 2 unmatched job(s)...
+[27/8/2026, 11:04:33] [SUCCESS] [1/2] Software Engineer — 85/100
+[27/8/2026, 11:04:34] [SUCCESS] [2/2] Software Engineer — 10/100
+[27/8/2026, 11:04:34] [INFO] Applying to 19 approved job(s)...
+[27/8/2026, 11:04:34] [INFO] [1/19] Processing application...
+[27/8/2026, 11:04:34] [INFO] Applying to: Software Engineer @ Ataraxysoft Technology
+[27/8/2026, 11:04:39] [SUCCESS] Resume uploaded via file input.
+[27/8/2026, 11:04:39] [WARN] Screening questions popup detected. Please answer manually in the browser window.
+[27/8/2026, 11:05:19] [WARN] Screening popup still open after timeout. Continuing anyway.
+[27/8/2026, 11:05:19] [ERROR] Failed to capture screenshot: page.screenshot: Target page, context or browser has been closed
+[27/8/2026, 11:05:19] [SUCCESS] Applied successfully: Software Engineer @ Ataraxysoft Technology
+[27/8/2026, 11:05:19] [WARN] Browser context closed.
+[27/8/2026, 11:05:25] [INFO] AI Job Hunter v1.0.0 starting...
+[27/8/2026, 11:05:25] [SUCCESS] Environment validation passed.
+[27/8/2026, 11:05:25] [SUCCESS] All required directories verified/created.
+[27/8/2026, 11:05:27] [SUCCESS] Connected to MongoDB Atlas.
+[27/8/2026, 11:05:27] [SUCCESS] Resume parsed (5551 characters).
+[27/8/2026, 11:05:27] [INFO] Launching browser...
+[27/8/2026, 11:05:28] [SUCCESS] Browser launched with persistent session.
+[27/8/2026, 11:05:28] [INFO] Checking Naukri login status...
+[27/8/2026, 11:05:29] [WARN] Not logged in. Opening login page for manual login...
+[27/8/2026, 11:05:29] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[27/8/2026, 11:05:32] [SUCCESS] Login detected. Session will be reused next time.
+[27/8/2026, 11:05:32] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=2
+[27/8/2026, 11:05:34] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[27/8/2026, 11:05:37] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=2
+[27/8/2026, 11:05:40] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[27/8/2026, 11:05:43] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=2
+[27/8/2026, 11:05:45] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[27/8/2026, 11:05:49] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=2
+[27/8/2026, 11:05:51] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[27/8/2026, 11:05:53] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=2
+[27/8/2026, 11:05:56] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[27/8/2026, 11:05:59] [SUCCESS] Total jobs collected across all roles: 100
+[27/8/2026, 11:06:07] [SUCCESS] 100 job(s) processed into database.
+[27/8/2026, 11:06:07] [INFO] Matching 0 unmatched job(s)...
+[27/8/2026, 11:06:07] [INFO] Applying to 21 approved job(s)...
+[27/8/2026, 11:06:07] [INFO] [1/21] Processing application...
+[27/8/2026, 11:06:07] [INFO] Applying to: Software Engineer @ Ataraxysoft Technology
+[27/8/2026, 11:06:12] [SUCCESS] Resume uploaded via file input.
+[27/8/2026, 11:06:12] [WARN] Screening questions popup detected. Please answer manually in the browser window.
+[27/8/2026, 11:07:42] [WARN] Screening popup still open after timeout. Continuing anyway.
+[27/8/2026, 11:07:43] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Software Engineer_id_1787809062593_kc81k7.png
+[27/8/2026, 11:07:43] [SUCCESS] Applied successfully: Software Engineer @ Ataraxysoft Technology
+[27/8/2026, 11:07:47] [INFO] [2/21] Processing application...
+[27/8/2026, 11:07:47] [INFO] Applying to: Software Engineer @ Capgemini
+[27/8/2026, 11:07:53] [DEBUG] No file upload input found (likely using profile resume).
+[27/8/2026, 11:07:53] [DEBUG] No screening questions popup detected.
+[27/8/2026, 11:07:55] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Software Engineer_id_1787809073794_fayj7e.png
+[27/8/2026, 11:07:55] [SUCCESS] Applied successfully: Software Engineer @ Capgemini
+[27/8/2026, 11:07:59] [INFO] [3/21] Processing application...
+[27/8/2026, 11:07:59] [INFO] Applying to: Software Engineer @ Capgemini
+[27/8/2026, 11:08:04] [DEBUG] No file upload input found (likely using profile resume).
+[27/8/2026, 11:08:04] [DEBUG] No screening questions popup detected.
+[27/8/2026, 11:08:04] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Software Engineer_id_1787809084234_9kmnns.png
+[27/8/2026, 11:08:04] [SUCCESS] Applied successfully: Software Engineer @ Capgemini
+[27/8/2026, 11:08:07] [INFO] [4/21] Processing application...
+[27/8/2026, 11:08:07] [INFO] Applying to: Software engineer F3 flow @ Randstad
+[27/8/2026, 11:08:12] [SUCCESS] Resume uploaded via file input.
+[27/8/2026, 11:08:12] [WARN] Screening questions popup detected. Please answer manually in the browser window.
+[27/8/2026, 11:09:42] [WARN] Screening popup still open after timeout. Continuing anyway.
+[27/8/2026, 11:09:43] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Software engineer F3_id_1787809182999_dr83so.png
+[27/8/2026, 11:09:43] [SUCCESS] Applied successfully: Software engineer F3 flow @ Randstad
+[27/8/2026, 11:09:46] [INFO] [5/21] Processing application...
+[27/8/2026, 11:09:46] [INFO] Applying to: Software Engineer Fresher @ ReactZ Consulting
+[27/8/2026, 11:09:51] [DEBUG] No file upload input found (likely using profile resume).
+[27/8/2026, 11:09:51] [DEBUG] No screening questions popup detected.
+[27/8/2026, 11:09:52] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Software Engineer Fr_id_1787809191573_y69qbv.png
+[27/8/2026, 11:09:52] [SUCCESS] Applied successfully: Software Engineer Fresher @ ReactZ Consulting
+[27/8/2026, 11:09:56] [INFO] [6/21] Processing application...
+[27/8/2026, 11:09:56] [INFO] Applying to: Software Engineer @ PeopleLogic Business Solutions
+[27/8/2026, 11:09:59] [WARN] No apply button found for "Software Engineer". Skipping.
+[27/8/2026, 11:09:59] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer_id_1787809199372_zhfo4x.png
+[27/8/2026, 11:10:04] [INFO] [7/21] Processing application...
+[27/8/2026, 11:10:04] [INFO] Applying to: Software Engineer @ C Zentrix
+[27/8/2026, 11:10:06] [WARN] No apply button found for "Software Engineer". Skipping.
+[27/8/2026, 11:10:07] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer_id_1787809206769_2vi28g.png
+[27/8/2026, 11:10:10] [INFO] [8/21] Processing application...
+[27/8/2026, 11:10:10] [INFO] Applying to: Software Engineer @ HappyLocate
+[27/8/2026, 11:10:12] [WARN] No apply button found for "Software Engineer". Skipping.
+[27/8/2026, 11:10:12] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer_id_1787809212315_jdtolk.png
+[27/8/2026, 11:10:15] [INFO] [9/21] Processing application...
+[27/8/2026, 11:10:15] [INFO] Applying to: Software Engineer [ SE ] @ Toprankers
+[27/8/2026, 11:10:18] [WARN] No apply button found for "Software Engineer [ SE ]". Skipping.
+[27/8/2026, 11:10:18] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer [ _id_1787809218464_hvu31c.png
+[27/8/2026, 11:10:23] [INFO] [10/21] Processing application...
+[27/8/2026, 11:10:23] [INFO] Applying to: Software Engineer, New Grad @ Flexai
+[27/8/2026, 11:10:25] [WARN] No apply button found for "Software Engineer, New Grad". Skipping.
+[27/8/2026, 11:10:26] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer, N_id_1787809225882_nurea6.png
+[27/8/2026, 11:10:29] [INFO] [11/21] Processing application...
+[27/8/2026, 11:10:29] [INFO] Applying to: Software Engineer @ Appsuccessor
+[27/8/2026, 11:10:31] [WARN] No apply button found for "Software Engineer". Skipping.
+[27/8/2026, 11:10:31] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer_id_1787809231674_rhdbxw.png
+[27/8/2026, 11:10:35] [INFO] [12/21] Processing application...
+[27/8/2026, 11:10:35] [INFO] Applying to: Frontend Developer @ Famepilot
+[27/8/2026, 11:10:38] [WARN] No apply button found for "Frontend Developer". Skipping.
+[27/8/2026, 11:10:38] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1787809238360_ob3wzq.png
+[27/8/2026, 11:10:42] [INFO] [13/21] Processing application...
+[27/8/2026, 11:10:42] [INFO] Applying to: React, MEAN/MERN & Node.js Developers - Freshers(Chennai) @ TVM Infotech Private Limited
+[27/8/2026, 11:10:46] [SUCCESS] Resume uploaded via file input.
+[27/8/2026, 11:10:46] [WARN] Screening questions popup detected. Please answer manually in the browser window.
+[27/8/2026, 11:12:17] [WARN] Screening popup still open after timeout. Continuing anyway.
+[27/8/2026, 11:12:17] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-React, MEAN\MERN & N_id_1787809337014_00uod3.png
+[27/8/2026, 11:12:17] [SUCCESS] Applied successfully: React, MEAN/MERN & Node.js Developers - Freshers(Chennai) @ TVM Infotech Private Limited
+[27/8/2026, 11:12:20] [INFO] [14/21] Processing application...
+[27/8/2026, 11:12:20] [INFO] Applying to: React Js Developer -PET(Freshers) @ Regami Solutions
+[27/8/2026, 11:12:25] [DEBUG] No file upload input found (likely using profile resume).
+[27/8/2026, 11:12:25] [DEBUG] No screening questions popup detected.
+[27/8/2026, 11:12:25] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-React Js Developer -_id_1787809345488_70la4t.png
+[27/8/2026, 11:12:25] [SUCCESS] Applied successfully: React Js Developer -PET(Freshers) @ Regami Solutions
+[27/8/2026, 11:12:29] [INFO] [15/21] Processing application...
+[27/8/2026, 11:12:29] [INFO] Applying to: Web Developers ( Python Full Stack , MERN Stack ) _ 24, 5, 6 Freshers @ Australia based IT Development Company
+[27/8/2026, 11:12:34] [SUCCESS] Resume uploaded via file input.
+[27/8/2026, 11:12:34] [WARN] Screening questions popup detected. Please answer manually in the browser window.
+[27/8/2026, 11:14:04] [WARN] Screening popup still open after timeout. Continuing anyway.
+[27/8/2026, 11:14:05] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Web Developers ( Pyt_id_1787809444967_pdngbh.png
+[27/8/2026, 11:14:05] [SUCCESS] Applied successfully: Web Developers ( Python Full Stack , MERN Stack ) _ 24, 5, 6 Freshers @ Australia based IT Development Company
+[27/8/2026, 11:14:09] [INFO] [16/21] Processing application...
+[27/8/2026, 11:14:09] [INFO] Applying to: Fullstack Developer @ Visualpath It Services
+[27/8/2026, 11:14:15] [DEBUG] No file upload input found (likely using profile resume).
+[27/8/2026, 11:14:15] [DEBUG] No screening questions popup detected.
+[27/8/2026, 11:14:16] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Fullstack Developer_id_1787809455335_5ektbw.png
+[27/8/2026, 11:14:16] [SUCCESS] Applied successfully: Fullstack Developer @ Visualpath It Services
+[27/8/2026, 11:14:21] [INFO] [17/21] Processing application...
+[27/8/2026, 11:14:21] [INFO] Applying to: Jr. Software Engineers MERN Stack @ TECUNIQUE Solutions & Services
+[27/8/2026, 11:14:23] [WARN] No apply button found for "Jr. Software Engineers MERN Stack". Skipping.
+[27/8/2026, 11:14:23] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Jr. Software Enginee_id_1787809463703_d571c7.png
+[27/8/2026, 11:14:28] [INFO] [18/21] Processing application...
+[27/8/2026, 11:14:28] [INFO] Applying to: MERN Stack Developer @ Spiral Technolabs
+[27/8/2026, 11:14:31] [WARN] No apply button found for "MERN Stack Developer". Skipping.
+[27/8/2026, 11:14:31] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-MERN Stack Developer_id_1787809471479_yo08ta.png
+[27/8/2026, 11:14:36] [INFO] [19/21] Processing application...
+[27/8/2026, 11:14:36] [INFO] Applying to: Backend Developer @ Forward Eye Technologies
+[27/8/2026, 11:14:41] [DEBUG] No file upload input found (likely using profile resume).
+[27/8/2026, 11:14:41] [DEBUG] No screening questions popup detected.
+[27/8/2026, 11:14:41] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Backend Developer_id_1787809481687_i04kkm.png
+[27/8/2026, 11:14:41] [SUCCESS] Applied successfully: Backend Developer @ Forward Eye Technologies
+[27/8/2026, 11:14:46] [INFO] [20/21] Processing application...
+[27/8/2026, 11:14:46] [INFO] Applying to: Backend Developer @ Forward Eye Technologies
+[27/8/2026, 11:14:51] [DEBUG] No file upload input found (likely using profile resume).
+[27/8/2026, 11:14:51] [DEBUG] No screening questions popup detected.
+[27/8/2026, 11:14:52] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Backend Developer_id_1787809491880_cc68dj.png
+[27/8/2026, 11:14:52] [SUCCESS] Applied successfully: Backend Developer @ Forward Eye Technologies
+[27/8/2026, 11:14:56] [INFO] [21/21] Processing application...
+[27/8/2026, 11:14:56] [INFO] Applying to: Backend Developer @ Dream Wealth Research
+[27/8/2026, 11:14:58] [WARN] No apply button found for "Backend Developer". Skipping.
+[27/8/2026, 11:14:58] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1787809498051_j14zsu.png
+[27/8/2026, 11:15:04] [SUCCESS] 11/21 application(s) submitted.
+[27/8/2026, 11:15:04] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[27/8/2026, 11:15:04] [WARN] Browser context closed.
+[27/8/2026, 11:15:05] [SUCCESS] Browser closed gracefully.
+[27/8/2026, 11:15:05] [INFO] MongoDB connection closed.
+[29/8/2026, 13:54:53] [SUCCESS] Connected to MongoDB Atlas.
+[29/8/2026, 13:54:53] [SUCCESS] API server running on http://localhost:5000
+[29/8/2026, 13:55:27] [INFO] AI Job Hunter v1.0.0 starting...
+[29/8/2026, 13:55:27] [SUCCESS] Environment validation passed.
+[29/8/2026, 13:55:27] [SUCCESS] All required directories verified/created.
+[29/8/2026, 13:55:28] [SUCCESS] Connected to MongoDB Atlas.
+[29/8/2026, 13:55:29] [SUCCESS] Resume parsed (5551 characters).
+[29/8/2026, 13:55:29] [INFO] Launching browser...
+[29/8/2026, 13:55:34] [SUCCESS] Browser launched with persistent session.
+[29/8/2026, 13:55:34] [INFO] Checking Naukri login status...
+[29/8/2026, 13:55:35] [WARN] Not logged in. Opening login page for manual login...
+[29/8/2026, 13:55:36] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[29/8/2026, 13:55:39] [SUCCESS] Login detected. Session will be reused next time.
+[29/8/2026, 13:55:39] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=2
+[29/8/2026, 13:55:43] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[29/8/2026, 13:55:46] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 13:55:48] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[29/8/2026, 13:55:51] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 13:55:53] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[29/8/2026, 13:55:56] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 13:56:00] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[29/8/2026, 13:56:03] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 13:56:06] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[29/8/2026, 13:56:09] [SUCCESS] Total jobs collected across all roles: 100
+[29/8/2026, 13:56:16] [SUCCESS] 100 job(s) processed into database.
+[29/8/2026, 13:56:16] [INFO] Matching 8 unmatched job(s)...
+[29/8/2026, 13:56:18] [SUCCESS] [1/8] Software Engineer — 88/100
+[29/8/2026, 13:56:19] [SUCCESS] [2/8] Software Engineer — 70/100
+[29/8/2026, 13:56:21] [SUCCESS] [3/8] Software Engineer / Trainees — 85/100
+[29/8/2026, 13:56:22] [SUCCESS] [4/8] Software Engineer AI — 10/100
+[29/8/2026, 13:56:24] [SUCCESS] [5/8] Software Engineer / AI Engineer Interns — 30/100
+[29/8/2026, 13:56:40] [SUCCESS] [6/8] React.js Developer — 90/100
+[29/8/2026, 13:56:54] [SUCCESS] [7/8] Java Full Stack, Python Full Stack , MERN Stack _ 24, 5, 6 Freshers — 60/100
+[29/8/2026, 13:57:06] [SUCCESS] [8/8] Best Backend Developer — 85/100
+[29/8/2026, 13:57:06] [INFO] No approved jobs pending application. Check the dashboard to approve some.
+[29/8/2026, 13:57:06] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[29/8/2026, 13:57:07] [WARN] Browser context closed.
+[29/8/2026, 13:57:08] [SUCCESS] Browser closed gracefully.
+[29/8/2026, 13:57:08] [INFO] MongoDB connection closed.
+[29/8/2026, 15:07:18] [INFO] AI Job Hunter v1.0.0 starting...
+[29/8/2026, 15:07:18] [SUCCESS] Environment validation passed.
+[29/8/2026, 15:07:18] [SUCCESS] All required directories verified/created.
+[29/8/2026, 15:07:20] [SUCCESS] Connected to MongoDB Atlas.
+[29/8/2026, 15:07:20] [SUCCESS] Resume parsed (5551 characters).
+[29/8/2026, 15:07:20] [INFO] Launching browser...
+[29/8/2026, 15:07:22] [SUCCESS] Browser launched with persistent session.
+[29/8/2026, 15:07:22] [INFO] Checking Naukri login status...
+[29/8/2026, 15:07:23] [WARN] Not logged in. Opening login page for manual login...
+[29/8/2026, 15:07:23] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[29/8/2026, 15:07:27] [SUCCESS] Login detected. Session will be reused next time.
+[29/8/2026, 15:07:27] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:07:29] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[29/8/2026, 15:07:31] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:07:33] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[29/8/2026, 15:07:36] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:07:39] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[29/8/2026, 15:07:41] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:07:44] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[29/8/2026, 15:07:46] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:07:49] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[29/8/2026, 15:07:52] [SUCCESS] Total jobs collected across all roles: 100
+[29/8/2026, 15:08:00] [SUCCESS] 100 job(s) processed into database.
+[29/8/2026, 15:08:00] [INFO] Matching 0 unmatched job(s)...
+[29/8/2026, 15:08:00] [INFO] No approved jobs pending application. Check the dashboard to approve some.
+[29/8/2026, 15:08:00] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[29/8/2026, 15:08:00] [WARN] Browser context closed.
+[29/8/2026, 15:08:01] [SUCCESS] Browser closed gracefully.
+[29/8/2026, 15:08:01] [INFO] MongoDB connection closed.
+[29/8/2026, 15:08:28] [INFO] AI Job Hunter v1.0.0 starting...
+[29/8/2026, 15:08:28] [SUCCESS] Environment validation passed.
+[29/8/2026, 15:08:28] [SUCCESS] All required directories verified/created.
+[29/8/2026, 15:08:29] [SUCCESS] Connected to MongoDB Atlas.
+[29/8/2026, 15:08:29] [SUCCESS] Resume parsed (5551 characters).
+[29/8/2026, 15:08:29] [INFO] Launching browser...
+[29/8/2026, 15:08:31] [SUCCESS] Browser launched with persistent session.
+[29/8/2026, 15:08:31] [INFO] Checking Naukri login status...
+[29/8/2026, 15:08:32] [WARN] Not logged in. Opening login page for manual login...
+[29/8/2026, 15:08:32] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[29/8/2026, 15:08:36] [SUCCESS] Login detected. Session will be reused next time.
+[29/8/2026, 15:08:36] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:08:38] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[29/8/2026, 15:08:41] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:08:44] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[29/8/2026, 15:08:47] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:08:50] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[29/8/2026, 15:08:52] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:08:54] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[29/8/2026, 15:08:57] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:09:00] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[29/8/2026, 15:09:02] [SUCCESS] Total jobs collected across all roles: 100
