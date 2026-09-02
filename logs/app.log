@@ -2459,3 +2459,1361 @@
 [29/8/2026, 15:08:57] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=2
 [29/8/2026, 15:09:00] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
 [29/8/2026, 15:09:02] [SUCCESS] Total jobs collected across all roles: 100
+[29/8/2026, 15:09:09] [SUCCESS] 100 job(s) processed into database.
+[29/8/2026, 15:09:10] [INFO] Matching 0 unmatched job(s)...
+[29/8/2026, 15:09:10] [INFO] Applying to 8 approved job(s)...
+[29/8/2026, 15:09:10] [INFO] [1/8] Processing application...
+[29/8/2026, 15:09:10] [INFO] Applying to: Software Engineer @ VITTECH PVT. LTD.
+[29/8/2026, 15:09:14] [DEBUG] No file upload input found (likely using profile resume).
+[29/8/2026, 15:09:14] [DEBUG] No screening questions popup detected.
+[29/8/2026, 15:09:15] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Software Engineer_id_1787996354995_r8oujf.png
+[29/8/2026, 15:09:15] [SUCCESS] Applied successfully: Software Engineer @ VITTECH PVT. LTD.
+[29/8/2026, 15:09:19] [INFO] [2/8] Processing application...
+[29/8/2026, 15:09:19] [INFO] Applying to: Software Engineer @ Kliento Technologies
+[29/8/2026, 15:09:21] [WARN] No apply button found for "Software Engineer". Skipping.
+[29/8/2026, 15:09:22] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer_id_1787996361970_ko83cg.png
+[29/8/2026, 15:09:25] [INFO] [3/8] Processing application...
+[29/8/2026, 15:09:25] [INFO] Applying to: Software Engineer / Trainees @ venuebookingz.com
+[29/8/2026, 15:09:28] [WARN] No apply button found for "Software Engineer / Trainees". Skipping.
+[29/8/2026, 15:09:28] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer \ _id_1787996368114_6th0pv.png
+[29/8/2026, 15:09:32] [INFO] [4/8] Processing application...
+[29/8/2026, 15:09:32] [INFO] Applying to: Software Engineer AI @ Lightmetrics
+[29/8/2026, 15:09:34] [WARN] No apply button found for "Software Engineer AI". Skipping.
+[29/8/2026, 15:09:35] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer AI_id_1787996374704_h4alsu.png
+[29/8/2026, 15:09:39] [INFO] [5/8] Processing application...
+[29/8/2026, 15:09:39] [INFO] Applying to: Software Engineer / AI Engineer Interns @ Omozing
+[29/8/2026, 15:09:41] [WARN] No apply button found for "Software Engineer / AI Engineer Interns". Skipping.
+[29/8/2026, 15:09:42] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer \ _id_1787996381678_pmwjwb.png
+[29/8/2026, 15:09:46] [INFO] [6/8] Processing application...
+[29/8/2026, 15:09:46] [INFO] Applying to: React.js Developer @ Rexcel It Services
+[29/8/2026, 15:09:49] [WARN] No apply button found for "React.js Developer". Skipping.
+[29/8/2026, 15:09:49] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React.js Developer_id_1787996389079_8m4z0d.png
+[29/8/2026, 15:09:54] [INFO] [7/8] Processing application...
+[29/8/2026, 15:09:54] [INFO] Applying to: Java Full Stack, Python Full Stack , MERN Stack _ 24, 5, 6 Freshers @ Australia based IT Development Company
+[29/8/2026, 15:09:58] [SUCCESS] Resume uploaded via file input.
+[29/8/2026, 15:09:58] [WARN] Screening questions popup detected. Please answer manually in the browser window.
+[29/8/2026, 15:11:28] [WARN] Screening popup still open after timeout. Continuing anyway.
+[29/8/2026, 15:11:29] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Java Full Stack, Pyt_id_1787996488977_64tuxe.png
+[29/8/2026, 15:11:29] [SUCCESS] Applied successfully: Java Full Stack, Python Full Stack , MERN Stack _ 24, 5, 6 Freshers @ Australia based IT Development Company
+[29/8/2026, 15:11:34] [INFO] [8/8] Processing application...
+[29/8/2026, 15:11:34] [INFO] Applying to: Best Backend Developer @ RGB Webtech
+[29/8/2026, 15:11:36] [WARN] No apply button found for "Best Backend Developer". Skipping.
+[29/8/2026, 15:11:37] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Best Backend Develop_id_1787996496718_652v9h.png
+[29/8/2026, 15:11:42] [SUCCESS] 2/8 application(s) submitted.
+[29/8/2026, 15:11:42] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[29/8/2026, 15:11:42] [WARN] Browser context closed.
+[29/8/2026, 15:11:43] [SUCCESS] Browser closed gracefully.
+[29/8/2026, 15:11:43] [INFO] MongoDB connection closed.
+[29/8/2026, 15:31:23] [INFO] AI Job Hunter v1.0.0 starting...
+[29/8/2026, 15:31:23] [SUCCESS] Environment validation passed.
+[29/8/2026, 15:31:23] [SUCCESS] All required directories verified/created.
+[29/8/2026, 15:31:24] [SUCCESS] Connected to MongoDB Atlas.
+[29/8/2026, 15:31:25] [SUCCESS] Resume parsed (5551 characters).
+[29/8/2026, 15:31:25] [INFO] Launching browser...
+[29/8/2026, 15:31:28] [SUCCESS] Browser launched with persistent session.
+[29/8/2026, 15:31:28] [INFO] Checking Naukri login status...
+[29/8/2026, 15:31:28] [WARN] Not logged in. Opening login page for manual login...
+[29/8/2026, 15:31:29] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[29/8/2026, 15:31:32] [SUCCESS] Login detected. Session will be reused next time.
+[29/8/2026, 15:31:32] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:31:34] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[29/8/2026, 15:31:38] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:31:40] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[29/8/2026, 15:31:42] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:31:45] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[29/8/2026, 15:31:48] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:31:51] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[29/8/2026, 15:31:54] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=2
+[29/8/2026, 15:31:56] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[29/8/2026, 15:31:59] [SUCCESS] Total jobs collected across all roles: 100
+[29/8/2026, 15:32:06] [SUCCESS] 100 job(s) processed into database.
+[29/8/2026, 15:32:06] [INFO] Matching 1 unmatched job(s)...
+[29/8/2026, 15:32:08] [SUCCESS] [1/1] Software Engineer — 70/100
+[29/8/2026, 15:32:08] [INFO] No approved jobs pending application. Check the dashboard to approve some.
+[29/8/2026, 15:32:08] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[29/8/2026, 15:32:08] [WARN] Browser context closed.
+[29/8/2026, 15:32:09] [SUCCESS] Browser closed gracefully.
+[29/8/2026, 15:32:09] [INFO] MongoDB connection closed.
+[31/8/2026, 09:45:49] [SUCCESS] Connected to MongoDB Atlas.
+[31/8/2026, 09:45:49] [SUCCESS] API server running on http://localhost:5000
+[31/8/2026, 09:46:41] [INFO] AI Job Hunter v1.0.0 starting...
+[31/8/2026, 09:46:41] [SUCCESS] Environment validation passed.
+[31/8/2026, 09:46:41] [SUCCESS] All required directories verified/created.
+[31/8/2026, 09:46:43] [SUCCESS] Connected to MongoDB Atlas.
+[31/8/2026, 09:46:44] [SUCCESS] Resume parsed (5786 characters).
+[31/8/2026, 09:46:44] [INFO] Launching browser...
+[31/8/2026, 09:46:47] [SUCCESS] Browser launched with persistent session.
+[31/8/2026, 09:46:47] [INFO] Checking Naukri login status...
+[31/8/2026, 09:46:49] [SUCCESS] Already logged in (session restored).
+[31/8/2026, 09:46:49] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=2
+[31/8/2026, 09:46:53] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[31/8/2026, 09:46:56] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 09:46:59] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[31/8/2026, 09:47:02] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 09:47:05] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[31/8/2026, 09:47:08] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 09:47:10] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[31/8/2026, 09:47:13] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 09:47:15] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[31/8/2026, 09:47:18] [SUCCESS] Total jobs collected across all roles: 100
+[31/8/2026, 09:47:26] [SUCCESS] 100 job(s) processed into database.
+[31/8/2026, 09:47:26] [INFO] Matching 5 unmatched job(s)...
+[31/8/2026, 09:47:28] [SUCCESS] [1/5] Software Engineer-BFSI — 35/100
+[31/8/2026, 09:47:29] [SUCCESS] [2/5] Software Engineer — 75/100
+[31/8/2026, 09:47:31] [SUCCESS] [3/5] AI Software Engineer — 70/100
+[31/8/2026, 09:47:33] [SUCCESS] [4/5] Full Stack Developer Intern (MERN Stack) — 90/100
+[31/8/2026, 09:47:52] [SUCCESS] [5/5] Backend Developer (SDE II) — 85/100
+[31/8/2026, 09:47:52] [INFO] No approved jobs pending application. Check the dashboard to approve some.
+[31/8/2026, 09:47:52] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[31/8/2026, 09:47:52] [WARN] Browser context closed.
+[31/8/2026, 09:47:53] [SUCCESS] Browser closed gracefully.
+[31/8/2026, 09:47:53] [INFO] MongoDB connection closed.
+[31/8/2026, 10:05:10] [ERROR] GET /jobs failed: getaddrinfo ENOTFOUND ac-j7aqc6q-shard-00-02.kzxmot9.mongodb.net
+[31/8/2026, 10:05:10] [ERROR] GET /jobs/stats failed: getaddrinfo ENOTFOUND ac-j7aqc6q-shard-00-02.kzxmot9.mongodb.net
+[31/8/2026, 10:05:10] [ERROR] GET /jobs failed: getaddrinfo ENOTFOUND ac-j7aqc6q-shard-00-02.kzxmot9.mongodb.net
+[31/8/2026, 10:05:10] [ERROR] GET /jobs/stats failed: getaddrinfo ENOTFOUND ac-j7aqc6q-shard-00-02.kzxmot9.mongodb.net
+[31/8/2026, 10:05:10] [ERROR] GET /jobs/stats failed: getaddrinfo ENOTFOUND ac-j7aqc6q-shard-00-02.kzxmot9.mongodb.net
+[31/8/2026, 10:05:10] [ERROR] GET /jobs failed: getaddrinfo ENOTFOUND ac-j7aqc6q-shard-00-02.kzxmot9.mongodb.net
+[31/8/2026, 10:05:10] [ERROR] GET /jobs failed: getaddrinfo ENOTFOUND ac-j7aqc6q-shard-00-02.kzxmot9.mongodb.net
+[31/8/2026, 10:05:10] [ERROR] GET /jobs/stats failed: getaddrinfo ENOTFOUND ac-j7aqc6q-shard-00-02.kzxmot9.mongodb.net
+[31/8/2026, 10:05:41] [INFO] AI Job Hunter v1.0.0 starting...
+[31/8/2026, 10:05:41] [SUCCESS] Environment validation passed.
+[31/8/2026, 10:05:41] [SUCCESS] All required directories verified/created.
+[31/8/2026, 10:05:42] [SUCCESS] Connected to MongoDB Atlas.
+[31/8/2026, 10:05:42] [SUCCESS] Resume parsed (5786 characters).
+[31/8/2026, 10:05:42] [INFO] Launching browser...
+[31/8/2026, 10:05:44] [SUCCESS] Browser launched with persistent session.
+[31/8/2026, 10:05:44] [INFO] Checking Naukri login status...
+[31/8/2026, 10:05:46] [WARN] Not logged in. Opening login page for manual login...
+[31/8/2026, 10:05:47] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[31/8/2026, 10:05:50] [SUCCESS] Login detected. Session will be reused next time.
+[31/8/2026, 10:05:50] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:05:52] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[31/8/2026, 10:05:55] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:05:58] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[31/8/2026, 10:06:01] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:06:04] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[31/8/2026, 10:06:07] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:06:09] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[31/8/2026, 10:06:12] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:06:15] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[31/8/2026, 10:06:17] [SUCCESS] Total jobs collected across all roles: 100
+[31/8/2026, 10:06:24] [SUCCESS] 100 job(s) processed into database.
+[31/8/2026, 10:06:24] [INFO] Matching 0 unmatched job(s)...
+[31/8/2026, 10:06:25] [INFO] Applying to 5 approved job(s)...
+[31/8/2026, 10:06:25] [INFO] [1/5] Processing application...
+[31/8/2026, 10:06:25] [INFO] Applying to: Software Engineer-BFSI @ Fortified Infotech
+[31/8/2026, 10:06:30] [SUCCESS] Resume uploaded via file input.
+[31/8/2026, 10:06:30] [WARN] Screening questions popup detected. Please answer manually in the browser window.
+[31/8/2026, 10:08:00] [WARN] Screening popup still open after timeout. Continuing anyway.
+[31/8/2026, 10:08:00] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Software Engineer-BF_id_1788151080282_llsfxt.png
+[31/8/2026, 10:08:00] [SUCCESS] Applied successfully: Software Engineer-BFSI @ Fortified Infotech
+[31/8/2026, 10:08:04] [INFO] [2/5] Processing application...
+[31/8/2026, 10:08:04] [INFO] Applying to: Software Engineer @ Akamai
+[31/8/2026, 10:08:07] [WARN] No apply button found for "Software Engineer". Skipping.
+[31/8/2026, 10:08:07] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer_id_1788151087145_gdsh8h.png
+[31/8/2026, 10:08:12] [INFO] [3/5] Processing application...
+[31/8/2026, 10:08:12] [INFO] Applying to: AI Software Engineer @ Godigi Infotech
+[31/8/2026, 10:08:14] [WARN] No apply button found for "AI Software Engineer". Skipping.
+[31/8/2026, 10:08:14] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-AI Software Engineer_id_1788151094250_e9n8xp.png
+[31/8/2026, 10:08:18] [INFO] [4/5] Processing application...
+[31/8/2026, 10:08:18] [INFO] Applying to: Full Stack Developer Intern (MERN Stack) @ Zenvior Technologies
+[31/8/2026, 10:08:20] [WARN] No apply button found for "Full Stack Developer Intern (MERN Stack)". Skipping.
+[31/8/2026, 10:08:21] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Full Stack Developer_id_1788151100960_r9fa0k.png
+[31/8/2026, 10:08:24] [INFO] [5/5] Processing application...
+[31/8/2026, 10:08:24] [INFO] Applying to: Backend Developer (SDE II) @ Legistify
+[31/8/2026, 10:08:27] [WARN] No apply button found for "Backend Developer (SDE II)". Skipping.
+[31/8/2026, 10:08:27] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer (S_id_1788151107021_txg6z0.png
+[31/8/2026, 10:08:31] [SUCCESS] 1/5 application(s) submitted.
+[31/8/2026, 10:08:31] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[31/8/2026, 10:08:31] [WARN] Browser context closed.
+[31/8/2026, 10:08:31] [SUCCESS] Browser closed gracefully.
+[31/8/2026, 10:08:31] [INFO] MongoDB connection closed.
+[31/8/2026, 10:16:47] [INFO] AI Job Hunter v1.0.0 starting...
+[31/8/2026, 10:16:47] [SUCCESS] Environment validation passed.
+[31/8/2026, 10:16:47] [SUCCESS] All required directories verified/created.
+[31/8/2026, 10:16:48] [SUCCESS] Connected to MongoDB Atlas.
+[31/8/2026, 10:16:49] [SUCCESS] Resume parsed (5786 characters).
+[31/8/2026, 10:16:49] [INFO] Launching browser...
+[31/8/2026, 10:16:51] [SUCCESS] Browser launched with persistent session.
+[31/8/2026, 10:16:51] [INFO] Checking Naukri login status...
+[31/8/2026, 10:16:52] [WARN] Not logged in. Opening login page for manual login...
+[31/8/2026, 10:16:52] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[31/8/2026, 10:16:55] [SUCCESS] Login detected. Session will be reused next time.
+[31/8/2026, 10:16:55] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=3
+[31/8/2026, 10:16:58] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[31/8/2026, 10:17:01] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=3
+[31/8/2026, 10:17:03] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[31/8/2026, 10:17:06] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=3
+[31/8/2026, 10:17:08] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[31/8/2026, 10:17:11] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=3
+[31/8/2026, 10:17:13] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[31/8/2026, 10:17:15] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=3
+[31/8/2026, 10:17:18] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[31/8/2026, 10:17:20] [SUCCESS] Total jobs collected across all roles: 100
+[31/8/2026, 10:17:27] [SUCCESS] 100 job(s) processed into database.
+[31/8/2026, 10:17:27] [INFO] Matching 0 unmatched job(s)...
+[31/8/2026, 10:17:27] [INFO] No approved jobs pending application. Check the dashboard to approve some.
+[31/8/2026, 10:17:27] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[31/8/2026, 10:17:27] [WARN] Browser context closed.
+[31/8/2026, 10:17:28] [SUCCESS] Browser closed gracefully.
+[31/8/2026, 10:17:28] [INFO] MongoDB connection closed.
+[31/8/2026, 10:18:48] [INFO] AI Job Hunter v1.0.0 starting...
+[31/8/2026, 10:18:48] [SUCCESS] Environment validation passed.
+[31/8/2026, 10:18:48] [SUCCESS] All required directories verified/created.
+[31/8/2026, 10:18:49] [SUCCESS] Connected to MongoDB Atlas.
+[31/8/2026, 10:18:49] [SUCCESS] Resume parsed (5786 characters).
+[31/8/2026, 10:18:49] [INFO] Launching browser...
+[31/8/2026, 10:18:50] [SUCCESS] Browser launched with persistent session.
+[31/8/2026, 10:18:50] [INFO] Checking Naukri login status...
+[31/8/2026, 10:18:51] [WARN] Not logged in. Opening login page for manual login...
+[31/8/2026, 10:18:51] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[31/8/2026, 10:18:54] [SUCCESS] Login detected. Session will be reused next time.
+[31/8/2026, 10:18:54] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:18:56] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[31/8/2026, 10:18:59] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:19:02] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[31/8/2026, 10:19:05] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:19:07] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[31/8/2026, 10:19:10] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:19:13] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[31/8/2026, 10:19:15] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:19:17] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[31/8/2026, 10:19:20] [SUCCESS] Total jobs collected across all roles: 100
+[31/8/2026, 10:19:27] [SUCCESS] 100 job(s) processed into database.
+[31/8/2026, 10:19:27] [INFO] Matching 0 unmatched job(s)...
+[31/8/2026, 10:19:27] [INFO] No approved jobs pending application. Check the dashboard to approve some.
+[31/8/2026, 10:19:27] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[31/8/2026, 10:19:27] [WARN] Browser context closed.
+[31/8/2026, 10:19:28] [SUCCESS] Browser closed gracefully.
+[31/8/2026, 10:19:28] [INFO] MongoDB connection closed.
+[31/8/2026, 10:20:02] [INFO] AI Job Hunter v1.0.0 starting...
+[31/8/2026, 10:20:02] [SUCCESS] Environment validation passed.
+[31/8/2026, 10:20:02] [SUCCESS] All required directories verified/created.
+[31/8/2026, 10:20:03] [SUCCESS] Connected to MongoDB Atlas.
+[31/8/2026, 10:20:03] [SUCCESS] Resume parsed (5786 characters).
+[31/8/2026, 10:20:03] [INFO] Launching browser...
+[31/8/2026, 10:20:04] [SUCCESS] Browser launched with persistent session.
+[31/8/2026, 10:20:04] [INFO] Checking Naukri login status...
+[31/8/2026, 10:20:05] [WARN] Not logged in. Opening login page for manual login...
+[31/8/2026, 10:20:05] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[31/8/2026, 10:20:08] [SUCCESS] Login detected. Session will be reused next time.
+[31/8/2026, 10:20:08] [INFO] Searching: Software Engineer → https://www.naukri.com/software-engineer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:20:11] [SUCCESS] Found 20 job(s), 20 within experience range for "Software Engineer"
+[31/8/2026, 10:20:13] [INFO] Searching: Frontend Developer → https://www.naukri.com/frontend-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:20:15] [SUCCESS] Found 20 job(s), 20 within experience range for "Frontend Developer"
+[31/8/2026, 10:20:18] [INFO] Searching: React JS Developer → https://www.naukri.com/react-js-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:20:20] [SUCCESS] Found 20 job(s), 20 within experience range for "React JS Developer"
+[31/8/2026, 10:20:23] [INFO] Searching: MERN Full Stack Developer → https://www.naukri.com/mern-full-stack-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:20:24] [SUCCESS] Found 20 job(s), 20 within experience range for "MERN Full Stack Developer"
+[31/8/2026, 10:20:27] [INFO] Searching: Backend Developer → https://www.naukri.com/backend-developer-jobs-in-india?experience=0&days=2
+[31/8/2026, 10:20:29] [SUCCESS] Found 20 job(s), 20 within experience range for "Backend Developer"
+[31/8/2026, 10:20:33] [SUCCESS] Total jobs collected across all roles: 100
+[31/8/2026, 10:20:40] [SUCCESS] 100 job(s) processed into database.
+[31/8/2026, 10:20:40] [INFO] Matching 0 unmatched job(s)...
+[31/8/2026, 10:20:40] [INFO] No approved jobs pending application. Check the dashboard to approve some.
+[31/8/2026, 10:20:40] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[31/8/2026, 10:20:40] [WARN] Browser context closed.
+[31/8/2026, 10:20:40] [SUCCESS] Browser closed gracefully.
+[31/8/2026, 10:20:40] [INFO] MongoDB connection closed.
+[1/9/2026, 10:48:42] [INFO] AI Job Hunter v2.0.0 starting...
+[1/9/2026, 10:48:42] [SUCCESS] Environment validation passed.
+[1/9/2026, 10:48:42] [SUCCESS] All required directories verified/created.
+[1/9/2026, 10:48:47] [ERROR] Failed to start server: Failed to connect to MongoDB
+[1/9/2026, 10:49:12] [ERROR] Something went wrong: Failed to connect to MongoDB
+[1/9/2026, 10:50:42] [INFO] AI Job Hunter v1.0.0 starting...
+[1/9/2026, 10:50:42] [SUCCESS] Environment validation passed.
+[1/9/2026, 10:50:42] [SUCCESS] All required directories verified/created.
+[1/9/2026, 10:51:12] [ERROR] Something went wrong: Failed to connect to MongoDB
+[1/9/2026, 10:51:19] [ERROR] Failed to start server: Failed to connect to MongoDB
+[1/9/2026, 11:00:09] [SUCCESS] Connected to MongoDB Atlas.
+[1/9/2026, 11:00:09] [SUCCESS] API server running on http://localhost:5000
+[1/9/2026, 11:00:23] [INFO] AI Job Hunter v1.0.0 starting...
+[1/9/2026, 11:00:23] [SUCCESS] Environment validation passed.
+[1/9/2026, 11:00:23] [SUCCESS] All required directories verified/created.
+[1/9/2026, 11:00:24] [SUCCESS] Connected to MongoDB Atlas.
+[1/9/2026, 11:00:24] [SUCCESS] Resume parsed (5786 characters).
+[1/9/2026, 11:00:24] [INFO] Launching browser...
+[1/9/2026, 11:00:29] [SUCCESS] Browser launched with persistent session.
+[1/9/2026, 11:00:29] [INFO] Checking Naukri login status...
+[1/9/2026, 11:00:31] [WARN] Not logged in. Opening login page for manual login...
+[1/9/2026, 11:00:31] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[1/9/2026, 11:00:35] [SUCCESS] Login detected. Session will be reused next time.
+[1/9/2026, 11:00:35] [ERROR] Skipping role "JavaScript Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:00:37] [ERROR] Skipping role "JavaScript Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:00:41] [ERROR] Skipping role "React Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:00:44] [ERROR] Skipping role "React JS Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:00:47] [ERROR] Skipping role "React Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:00:50] [ERROR] Skipping role "Node.js Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:00:52] [ERROR] Skipping role "Node Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:00:55] [ERROR] Skipping role "Node.js Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:00:57] [ERROR] Skipping role "MERN Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:00] [ERROR] Skipping role "MERN Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:03] [ERROR] Skipping role "MERN Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:05] [ERROR] Skipping role "MERN Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:07] [ERROR] Skipping role "Frontend Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:09] [ERROR] Skipping role "Front End Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:11] [ERROR] Skipping role "Frontend Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:14] [ERROR] Skipping role "Backend Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:17] [ERROR] Skipping role "Backend Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:19] [ERROR] Skipping role "Backend Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:22] [ERROR] Skipping role "Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:25] [ERROR] Skipping role "Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:28] [ERROR] Skipping role "Full Stack Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:31] [ERROR] Skipping role "Software Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:34] [ERROR] Skipping role "Software Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:36] [ERROR] Skipping role "Web Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:40] [ERROR] Skipping role "Web Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:42] [ERROR] Skipping role "Frontend Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:45] [ERROR] Skipping role "JavaScript Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:47] [ERROR] Skipping role "React Node Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:01:50] [SUCCESS] Total jobs collected across all roles: 0
+[1/9/2026, 11:01:50] [SUCCESS] 0 job(s) processed into database.
+[1/9/2026, 11:01:50] [INFO] Matching 193 unmatched job(s)...
+[1/9/2026, 11:01:52] [SUCCESS] [1/193] Custom Software Engineer — 45/100
+[1/9/2026, 11:01:53] [SUCCESS] [2/193] Custom Software Engineer — 35/100
+[1/9/2026, 11:01:54] [SUCCESS] [3/193] Custom Software Engineer — 55/100
+[1/9/2026, 11:01:55] [SUCCESS] [4/193] Software Engineer — 88/100
+[1/9/2026, 11:02:03] [SUCCESS] [5/193] Custom Software Engineer — 60/100
+[1/9/2026, 11:02:19] [SUCCESS] [6/193] Custom Software Engineer — 10/100
+[1/9/2026, 11:02:34] [SUCCESS] [7/193] Custom Software Engineer — 75/100
+[1/9/2026, 11:02:54] [SUCCESS] [8/193] Custom Software Engineer — 70/100
+[1/9/2026, 11:03:09] [SUCCESS] [9/193] Custom Software Engineer — 75/100
+[1/9/2026, 11:03:27] [SUCCESS] [10/193] Software Engineer — 88/100
+[1/9/2026, 11:03:43] [SUCCESS] [11/193] Custom Software Engineer — 70/100
+[1/9/2026, 11:03:58] [SUCCESS] [12/193] Software Engineer — 70/100
+[1/9/2026, 11:04:13] [SUCCESS] [13/193] Software Engineer — 75/100
+[1/9/2026, 11:04:38] [SUCCESS] [14/193] Custom Software Engineer — 75/100
+[1/9/2026, 11:04:47] [SUCCESS] [15/193] Custom Software Engineer — 75/100
+[1/9/2026, 11:05:06] [SUCCESS] [16/193] Custom Software Engineer — 45/100
+[1/9/2026, 11:05:22] [SUCCESS] [17/193] Custom Software Engineer — 70/100
+[1/9/2026, 11:05:31] [SUCCESS] [18/193] Custom Software Engineer — 30/100
+[1/9/2026, 11:05:39] [SUCCESS] [19/193] Custom Software Engineer — 70/100
+[1/9/2026, 11:05:56] [SUCCESS] [20/193] Software Engineer — 20/100
+[1/9/2026, 11:06:00] [SUCCESS] [21/193] Frontend Developer — 88/100
+[1/9/2026, 11:06:20] [SUCCESS] [22/193] Frontend Developer — 88/100
+[1/9/2026, 11:06:31] [SUCCESS] [23/193] Frontend Developer — 90/100
+[1/9/2026, 11:06:33] [SUCCESS] [24/193] Frontend Developer — 80/100
+[1/9/2026, 11:06:50] [SUCCESS] [25/193] Frontend developer — 88/100
+[1/9/2026, 11:07:07] [ERROR] Matching failed for "Frontend Developer": Unexpected end of JSON input
+[1/9/2026, 11:07:07] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:07:20] [SUCCESS] [27/193] Frontend Developer — 90/100
+[1/9/2026, 11:07:43] [SUCCESS] [28/193] Frontend Developer — 88/100
+[1/9/2026, 11:08:01] [SUCCESS] [29/193] Consultant - Frontend Developer — 85/100
+[1/9/2026, 11:08:15] [SUCCESS] [30/193] Next.js & Frontend Developer — 60/100
+[1/9/2026, 11:08:16] [SUCCESS] [31/193] frontend developer — 88/100
+[1/9/2026, 11:08:38] [SUCCESS] [32/193] Backend and Frontend Developer — 70/100
+[1/9/2026, 11:08:51] [SUCCESS] [33/193] Frontend Developer — 92/100
+[1/9/2026, 11:09:10] [SUCCESS] [34/193] Frontend Developer — 85/100
+[1/9/2026, 11:09:26] [SUCCESS] [35/193] Frontend Developer — 88/100
+[1/9/2026, 11:09:28] [SUCCESS] [36/193] Frontend Developer — 88/100
+[1/9/2026, 11:09:45] [SUCCESS] [37/193] Frontend Developer — 85/100
+[1/9/2026, 11:10:03] [SUCCESS] [38/193] Frontend Developer — 85/100
+[1/9/2026, 11:10:18] [SUCCESS] [39/193] Frontend Developer — 90/100
+[1/9/2026, 11:10:34] [SUCCESS] [40/193] Frontend Developer — 85/100
+[1/9/2026, 11:10:43] [SUCCESS] [41/193] React.js Developer — 95/100
+[1/9/2026, 11:10:49] [SUCCESS] [42/193] React JS Developer-INF (2-3)YRS — 90/100
+[1/9/2026, 11:11:13] [SUCCESS] [43/193] .Net + React js Developer — 55/100
+[1/9/2026, 11:11:28] [SUCCESS] [44/193] React JS Developer — 88/100
+[1/9/2026, 11:11:44] [SUCCESS] [45/193] React Js Developer — 92/100
+[1/9/2026, 11:11:58] [SUCCESS] [46/193] Full Stack Developer (React + Node.js) — 88/100
+[1/9/2026, 11:11:59] [SUCCESS] [47/193] React . JS Developer — 92/100
+[1/9/2026, 11:12:21] [SUCCESS] [48/193] React JS Developer — 85/100
+[1/9/2026, 11:12:29] [SUCCESS] [49/193] React JS Developer — 88/100
+[1/9/2026, 11:12:46] [SUCCESS] [50/193] React JS Developer — 85/100
+[1/9/2026, 11:13:06] [SUCCESS] [51/193] React JS Developer — 88/100
+[1/9/2026, 11:13:23] [SUCCESS] [52/193] React Js Developer — 88/100
+[1/9/2026, 11:13:37] [SUCCESS] [53/193] React JS Developer — 85/100
+[1/9/2026, 11:13:53] [SUCCESS] [54/193] React . js Developer — 90/100
+[1/9/2026, 11:14:07] [SUCCESS] [55/193] React js Developer — 90/100
+[1/9/2026, 11:14:09] [SUCCESS] [56/193] React JS Developer — 85/100
+[1/9/2026, 11:14:24] [SUCCESS] [57/193] Fullstack Developer(Node.js + React) — 85/100
+[1/9/2026, 11:14:43] [SUCCESS] [58/193] React JS Developer — 92/100
+[1/9/2026, 11:14:53] [SUCCESS] [59/193] React JS Developer — 92/100
+[1/9/2026, 11:15:15] [SUCCESS] [60/193] React . js Developer — 90/100
+[1/9/2026, 11:15:30] [SUCCESS] [61/193] Full Stack Developer — 90/100
+[1/9/2026, 11:15:32] [SUCCESS] [62/193] Mern Full Stack Developer — 88/100
+[1/9/2026, 11:15:44] [SUCCESS] [63/193] MERN Full Stack Developer — 92/100
+[1/9/2026, 11:16:04] [SUCCESS] [64/193] MERN Full Stack Developer — 95/100
+[1/9/2026, 11:16:07] [SUCCESS] [65/193] MERN Full Stack Developer — 88/100
+[1/9/2026, 11:16:25] [SUCCESS] [66/193] MERN Full Stack Developer — 88/100
+[1/9/2026, 11:16:43] [SUCCESS] [67/193] MERN Full Stack Developer — 88/100
+[1/9/2026, 11:16:54] [SUCCESS] [68/193] Walk-in || Mern Full Stack Developer — 90/100
+[1/9/2026, 11:17:08] [SUCCESS] [69/193] Full Stack Developer — 25/100
+[1/9/2026, 11:17:23] [SUCCESS] [70/193] Full Stack Developer- MERN — 88/100
+[1/9/2026, 11:17:24] [SUCCESS] [71/193] Fullstack Developer with a IT based Co@Coimbatore — 70/100
+[1/9/2026, 11:17:29] [SUCCESS] [72/193] MERN / MEAN Developer — 85/100
+[1/9/2026, 11:17:57] [SUCCESS] [73/193] Mern Full Stack Developer — 90/100
+[1/9/2026, 11:18:10] [SUCCESS] [74/193] Full Stack Developer ( MERN ) — 85/100
+[1/9/2026, 11:18:17] [SUCCESS] [75/193] Full Stack Developer — 92/100
+[1/9/2026, 11:18:34] [SUCCESS] [76/193] MERN Full Stack Developer - ATS Services — 95/100
+[1/9/2026, 11:18:35] [SUCCESS] [77/193] Full Stack Developer ( MERN ) — 95/100
+[1/9/2026, 11:18:38] [ERROR] Matching failed for "Senior Full Stack Developer (MERN)": Unexpected end of JSON input
+[1/9/2026, 11:18:38] [WARN] Match failed for "Senior Full Stack Developer (MERN)": Failed to match resume to job
+[1/9/2026, 11:19:04] [SUCCESS] [79/193] MERN Full Stack Developer — 85/100
+[1/9/2026, 11:19:20] [SUCCESS] [80/193] Full Stack Developer (MERN) — 92/100
+[1/9/2026, 11:19:23] [SUCCESS] [81/193] Backend Developer — 85/100
+[1/9/2026, 11:19:32] [SUCCESS] [82/193] Backend Developer — 80/100
+[1/9/2026, 11:19:46] [SUCCESS] [83/193] Backend Developer — 92/100
+[1/9/2026, 11:19:48] [SUCCESS] [84/193] Backend developer — 85/100
+[1/9/2026, 11:19:56] [SUCCESS] [85/193] Backend Developer — 60/100
+[1/9/2026, 11:20:00] [SUCCESS] [86/193] Backend Developer — 88/100
+[1/9/2026, 11:20:16] [SUCCESS] [87/193] backend developer — 88/100
+[1/9/2026, 11:20:21] [SUCCESS] [88/193] Backend Developer — 88/100
+[1/9/2026, 11:20:38] [SUCCESS] [89/193] backend developer — 80/100
+[1/9/2026, 11:20:48] [SUCCESS] [90/193] BackEnd Developer — 92/100
+[1/9/2026, 11:20:58] [SUCCESS] [91/193] Backend Developer — 88/100
+[1/9/2026, 11:21:06] [SUCCESS] [92/193] Backend Developer — 85/100
+[1/9/2026, 11:21:20] [SUCCESS] [93/193] Backend Developer — 92/100
+[1/9/2026, 11:21:22] [SUCCESS] [94/193] Backend Developer — 35/100
+[1/9/2026, 11:21:30] [SUCCESS] [95/193] Backend Developer — 70/100
+[1/9/2026, 11:21:42] [SUCCESS] [96/193] Backend Developer — 88/100
+[1/9/2026, 11:21:58] [SUCCESS] [97/193] Backend Developer — 92/100
+[1/9/2026, 11:22:15] [SUCCESS] [98/193] Backend Developer — 85/100
+[1/9/2026, 11:22:31] [SUCCESS] [99/193] BACKEND DEVELOPER — 88/100
+[1/9/2026, 11:22:38] [SUCCESS] [100/193] Backend Developer — 88/100
+[1/9/2026, 11:22:55] [SUCCESS] [101/193] Software Engineer — 85/100
+[1/9/2026, 11:23:09] [SUCCESS] [102/193] Trainee Software Engineers – Freshers — 90/100
+[1/9/2026, 11:23:27] [SUCCESS] [103/193] C++ Software Engineer — 10/100
+[1/9/2026, 11:23:29] [SUCCESS] [104/193] Ground Software Engineer — 30/100
+[1/9/2026, 11:23:31] [SUCCESS] [105/193] Software Engineer — 88/100
+[1/9/2026, 11:23:50] [SUCCESS] [106/193] Software Engineer — 78/100
+[1/9/2026, 11:23:55] [ERROR] Matching failed for "Software Engineer": Unexpected end of JSON input
+[1/9/2026, 11:23:55] [WARN] Match failed for "Software Engineer": Failed to match resume to job
+[1/9/2026, 11:24:20] [SUCCESS] [108/193] Software Engineer — 20/100
+[1/9/2026, 11:24:27] [SUCCESS] [109/193] Software Engineer — 85/100
+[1/9/2026, 11:24:33] [SUCCESS] [110/193] Software Engineer — 70/100
+[1/9/2026, 11:24:38] [SUCCESS] [111/193] Software Engineer — 30/100
+[1/9/2026, 11:24:43] [SUCCESS] [112/193] Distinguished, Software Engineer — 75/100
+[1/9/2026, 11:24:52] [SUCCESS] [113/193] Software Engineer — 75/100
+[1/9/2026, 11:24:58] [SUCCESS] [114/193] Software Engineer AI — 85/100
+[1/9/2026, 11:25:04] [SUCCESS] [115/193] Software Engineer — 78/100
+[1/9/2026, 11:25:09] [SUCCESS] [116/193] Software Engineer - Go Lang — 70/100
+[1/9/2026, 11:25:11] [SUCCESS] [117/193] Custom Software Engineer — 80/100
+[1/9/2026, 11:25:16] [SUCCESS] [118/193] Frontend Developer — 88/100
+[1/9/2026, 11:25:41] [SUCCESS] [119/193] Frontend Developer — 75/100
+[1/9/2026, 11:25:57] [SUCCESS] [120/193] Frontend Developer — 88/100
+[1/9/2026, 11:25:58] [SUCCESS] [121/193] Frontend Developer — 88/100
+[1/9/2026, 11:25:58] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198125, Requested 2604. Please try again in 5m14.928s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:25:58] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:25:59] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198124, Requested 2632. Please try again in 5m26.592s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:25:59] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:25:59] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198124, Requested 3494. Please try again in 11m38.976s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:25:59] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:25:59] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198124, Requested 2604. Please try again in 5m14.496s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:25:59] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:25:59] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198124, Requested 2602. Please try again in 5m13.632s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:25:59] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:25:59] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198123, Requested 2601. Please try again in 5m12.768s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:25:59] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:25:59] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198123, Requested 2602. Please try again in 5m13.2s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:25:59] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:25:59] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198123, Requested 2605. Please try again in 5m14.496s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:25:59] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:25:59] [ERROR] Matching failed for "Frontend developers": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198122, Requested 2638. Please try again in 5m28.32s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:25:59] [WARN] Match failed for "Frontend developers": Failed to match resume to job
+[1/9/2026, 11:26:00] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198122, Requested 3487. Please try again in 11m35.088s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:00] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:26:00] [ERROR] Matching failed for "Trainee UX/Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198122, Requested 2608. Please try again in 5m15.36s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:00] [WARN] Match failed for "Trainee UX/Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:26:00] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198122, Requested 2643. Please try again in 5m30.479999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:00] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:26:00] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198121, Requested 2604. Please try again in 5m13.2s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:00] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:26:00] [ERROR] Matching failed for "Frontend Developer (SDE II)": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198121, Requested 3491. Please try again in 11m36.383999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:00] [WARN] Match failed for "Frontend Developer (SDE II)": Failed to match resume to job
+[1/9/2026, 11:26:00] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198121, Requested 2636. Please try again in 5m27.024s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:00] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:26:00] [ERROR] Matching failed for "Walk-in || Looking For Frontend Developer (Angular JS) at KJ Systems.": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198121, Requested 2620. Please try again in 5m20.112s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:00] [WARN] Match failed for "Walk-in || Looking For Frontend Developer (Angular JS) at KJ Systems.": Failed to match resume to job
+[1/9/2026, 11:26:00] [ERROR] Matching failed for "React Js developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198120, Requested 2606. Please try again in 5m13.632s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:00] [WARN] Match failed for "React Js developer": Failed to match resume to job
+[1/9/2026, 11:26:00] [ERROR] Matching failed for "React.js Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198120, Requested 2637. Please try again in 5m27.024s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:00] [WARN] Match failed for "React.js Developer": Failed to match resume to job
+[1/9/2026, 11:26:01] [ERROR] Matching failed for "Software Developer - Intern (React Js Developer)": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198120, Requested 2609. Please try again in 5m14.928s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:01] [WARN] Match failed for "Software Developer - Intern (React Js Developer)": Failed to match resume to job
+[1/9/2026, 11:26:01] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198119, Requested 2606. Please try again in 5m13.2s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:01] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:26:01] [ERROR] Matching failed for "AI & Full Stack Developer Intern (Node.js | React | OpenAI | Voice AI)": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198119, Requested 2642. Please try again in 5m28.752s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:01] [WARN] Match failed for "AI & Full Stack Developer Intern (Node.js | React | OpenAI | Voice AI)": Failed to match resume to job
+[1/9/2026, 11:26:01] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198118, Requested 2608. Please try again in 5m13.632s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:01] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:26:01] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198118, Requested 2606. Please try again in 5m12.768s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:01] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:26:01] [ERROR] Matching failed for "REACT JS DEVELOPER": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198118, Requested 3496. Please try again in 11m37.248s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:01] [WARN] Match failed for "REACT JS DEVELOPER": Failed to match resume to job
+[1/9/2026, 11:26:02] [ERROR] Matching failed for "Junior React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198118, Requested 2606. Please try again in 5m12.768s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:02] [WARN] Match failed for "Junior React JS Developer": Failed to match resume to job
+[1/9/2026, 11:26:02] [ERROR] Matching failed for "React Js developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198117, Requested 2606. Please try again in 5m12.336s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:02] [WARN] Match failed for "React Js developer": Failed to match resume to job
+[1/9/2026, 11:26:02] [ERROR] Matching failed for "React js developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198117, Requested 2603. Please try again in 5m11.039999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:02] [WARN] Match failed for "React js developer": Failed to match resume to job
+[1/9/2026, 11:26:02] [ERROR] Matching failed for "React.js Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198117, Requested 3493. Please try again in 11m35.52s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:02] [WARN] Match failed for "React.js Developer": Failed to match resume to job
+[1/9/2026, 11:26:02] [ERROR] Matching failed for "React.js Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198116, Requested 2613. Please try again in 5m14.928s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:02] [WARN] Match failed for "React.js Developer": Failed to match resume to job
+[1/9/2026, 11:26:02] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198116, Requested 3492. Please try again in 11m34.656s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:02] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:26:02] [ERROR] Matching failed for "REACT JS DEVELOPER": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198116, Requested 2606. Please try again in 5m11.904s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:02] [WARN] Match failed for "REACT JS DEVELOPER": Failed to match resume to job
+[1/9/2026, 11:26:02] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198116, Requested 3486. Please try again in 11m32.064s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:02] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:26:02] [ERROR] Matching failed for "React Js Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198115, Requested 2603. Please try again in 5m10.176s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:02] [WARN] Match failed for "React Js Developer": Failed to match resume to job
+[1/9/2026, 11:26:03] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198115, Requested 2602. Please try again in 5m9.744s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:03] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:26:03] [ERROR] Matching failed for "ReactJS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198115, Requested 2606. Please try again in 5m11.472s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:03] [WARN] Match failed for "ReactJS Developer": Failed to match resume to job
+[1/9/2026, 11:26:03] [ERROR] Matching failed for "Reactjs Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198114, Requested 2609. Please try again in 5m12.336s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:03] [WARN] Match failed for "Reactjs Developer": Failed to match resume to job
+[1/9/2026, 11:26:03] [ERROR] Matching failed for "Walk-in || MERN Full Stack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198114, Requested 3497. Please try again in 11m35.952s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:03] [WARN] Match failed for "Walk-in || MERN Full Stack Developer": Failed to match resume to job
+[1/9/2026, 11:26:03] [ERROR] Matching failed for "Fullstack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198114, Requested 2634. Please try again in 5m23.135999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:03] [WARN] Match failed for "Fullstack Developer": Failed to match resume to job
+[1/9/2026, 11:26:03] [ERROR] Matching failed for "MERN Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198113, Requested 2610. Please try again in 5m12.336s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:03] [WARN] Match failed for "MERN Developer": Failed to match resume to job
+[1/9/2026, 11:26:04] [ERROR] Matching failed for "Mernstack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198113, Requested 3492. Please try again in 11m33.359999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:04] [WARN] Match failed for "Mernstack Developer": Failed to match resume to job
+[1/9/2026, 11:26:04] [ERROR] Matching failed for "MERN Stack Developer (Intern)": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198113, Requested 2612. Please try again in 5m13.2s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:04] [WARN] Match failed for "MERN Stack Developer (Intern)": Failed to match resume to job
+[1/9/2026, 11:26:04] [ERROR] Matching failed for "Web Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198112, Requested 3493. Please try again in 11m33.359999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:04] [WARN] Match failed for "Web Developer": Failed to match resume to job
+[1/9/2026, 11:26:04] [ERROR] Matching failed for "Web Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198112, Requested 2606. Please try again in 5m10.176s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:04] [WARN] Match failed for "Web Developer": Failed to match resume to job
+[1/9/2026, 11:26:04] [ERROR] Matching failed for "Web Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198112, Requested 2604. Please try again in 5m9.312s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:04] [WARN] Match failed for "Web Developer": Failed to match resume to job
+[1/9/2026, 11:26:04] [ERROR] Matching failed for "Web Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198112, Requested 3489. Please try again in 11m31.632s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:04] [WARN] Match failed for "Web Developer": Failed to match resume to job
+[1/9/2026, 11:26:04] [ERROR] Matching failed for "Java developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198111, Requested 2603. Please try again in 5m8.448s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:04] [WARN] Match failed for "Java developer": Failed to match resume to job
+[1/9/2026, 11:26:04] [ERROR] Matching failed for "Full Stack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198111, Requested 2603. Please try again in 5m8.448s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:04] [WARN] Match failed for "Full Stack Developer": Failed to match resume to job
+[1/9/2026, 11:26:04] [ERROR] Matching failed for "Walk-in || AI Automation Engineer or Agentic AI": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198111, Requested 2614. Please try again in 5m13.2s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:04] [WARN] Match failed for "Walk-in || AI Automation Engineer or Agentic AI": Failed to match resume to job
+[1/9/2026, 11:26:04] [ERROR] Matching failed for "Software Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198111, Requested 2604. Please try again in 5m8.88s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:04] [WARN] Match failed for "Software Developer": Failed to match resume to job
+[1/9/2026, 11:26:05] [ERROR] Matching failed for "Full Stack Developer Trainee": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198111, Requested 3494. Please try again in 11m33.359999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:05] [WARN] Match failed for "Full Stack Developer Trainee": Failed to match resume to job
+[1/9/2026, 11:26:05] [ERROR] Matching failed for "Full Stack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198110, Requested 2604. Please try again in 5m8.448s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:05] [WARN] Match failed for "Full Stack Developer": Failed to match resume to job
+[1/9/2026, 11:26:05] [ERROR] Matching failed for "MERN Stack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198110, Requested 2605. Please try again in 5m8.88s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:05] [WARN] Match failed for "MERN Stack Developer": Failed to match resume to job
+[1/9/2026, 11:26:05] [ERROR] Matching failed for "Junior MERN Engineer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198110, Requested 2605. Please try again in 5m8.88s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:05] [WARN] Match failed for "Junior MERN Engineer": Failed to match resume to job
+[1/9/2026, 11:26:05] [ERROR] Matching failed for "Junior MERN Stack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198109, Requested 2639. Please try again in 5m23.135999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:05] [WARN] Match failed for "Junior MERN Stack Developer": Failed to match resume to job
+[1/9/2026, 11:26:05] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198109, Requested 2605. Please try again in 5m8.448s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:05] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:26:05] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198109, Requested 3491. Please try again in 11m31.2s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:05] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:26:05] [ERROR] Matching failed for "backend developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198109, Requested 2646. Please try again in 5m26.16s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:05] [WARN] Match failed for "backend developer": Failed to match resume to job
+[1/9/2026, 11:26:05] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198108, Requested 2603. Please try again in 5m7.152s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:05] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:26:06] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198108, Requested 2633. Please try again in 5m20.112s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:06] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:26:06] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198108, Requested 2604. Please try again in 5m7.584s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:06] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:26:06] [ERROR] Matching failed for "Backend developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198108, Requested 2605. Please try again in 5m8.016s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:06] [WARN] Match failed for "Backend developer": Failed to match resume to job
+[1/9/2026, 11:26:06] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198107, Requested 2609. Please try again in 5m9.312s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:06] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:26:06] [ERROR] Matching failed for "Dotnet Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198107, Requested 2634. Please try again in 5m20.112s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:06] [WARN] Match failed for "Dotnet Backend Developer": Failed to match resume to job
+[1/9/2026, 11:26:06] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198107, Requested 2603. Please try again in 5m6.72s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:06] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:26:06] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198107, Requested 2635. Please try again in 5m20.544s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:06] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:26:06] [ERROR] Matching failed for "Midlevel Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198106, Requested 2639. Please try again in 5m21.84s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:06] [WARN] Match failed for "Midlevel Backend Developer": Failed to match resume to job
+[1/9/2026, 11:26:06] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198106, Requested 2599. Please try again in 5m4.56s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:06] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:26:07] [ERROR] Matching failed for "API & Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198106, Requested 2637. Please try again in 5m20.976s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:07] [WARN] Match failed for "API & Backend Developer": Failed to match resume to job
+[1/9/2026, 11:26:07] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198106, Requested 3486. Please try again in 11m27.744s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:07] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:26:07] [ERROR] Matching failed for "Backend Developer- RenewBuy": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198105, Requested 2604. Please try again in 5m6.288s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:07] [WARN] Match failed for "Backend Developer- RenewBuy": Failed to match resume to job
+[1/9/2026, 11:26:07] [ERROR] Matching failed for "BackEnd Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198105, Requested 3485. Please try again in 11m26.88s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:07] [WARN] Match failed for "BackEnd Developer": Failed to match resume to job
+[1/9/2026, 11:26:07] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198105, Requested 2631. Please try again in 5m17.952s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:26:07] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:26:09] [INFO] Applying to 103 approved job(s)...
+[1/9/2026, 11:26:09] [WARN] 103 jobs approved, but limiting to 100 per run.
+[1/9/2026, 11:26:09] [INFO] [1/100] Processing application...
+[1/9/2026, 11:26:09] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:26:12] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:26:13] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242172705_p2yf3w.png
+[1/9/2026, 11:26:17] [INFO] [2/100] Processing application...
+[1/9/2026, 11:26:17] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:26:19] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:26:20] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242179656_a315zf.png
+[1/9/2026, 11:26:20] [WARN] Browser context closed.
+[1/9/2026, 11:26:25] [INFO] AI Job Hunter v1.0.0 starting...
+[1/9/2026, 11:26:25] [SUCCESS] Environment validation passed.
+[1/9/2026, 11:26:25] [SUCCESS] All required directories verified/created.
+[1/9/2026, 11:26:26] [SUCCESS] Connected to MongoDB Atlas.
+[1/9/2026, 11:26:26] [SUCCESS] Resume parsed (5786 characters).
+[1/9/2026, 11:26:26] [INFO] Launching browser...
+[1/9/2026, 11:26:27] [SUCCESS] Browser launched with persistent session.
+[1/9/2026, 11:26:27] [INFO] Checking Naukri login status...
+[1/9/2026, 11:26:28] [WARN] Not logged in. Opening login page for manual login...
+[1/9/2026, 11:26:28] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[1/9/2026, 11:26:31] [SUCCESS] Login detected. Session will be reused next time.
+[1/9/2026, 11:26:31] [ERROR] Skipping role "JavaScript Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:26:34] [ERROR] Skipping role "JavaScript Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:26:37] [ERROR] Skipping role "React Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:26:40] [ERROR] Skipping role "React JS Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:26:43] [ERROR] Skipping role "React Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:26:46] [ERROR] Skipping role "Node.js Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:26:48] [ERROR] Skipping role "Node Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:26:50] [ERROR] Skipping role "Node.js Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:26:53] [ERROR] Skipping role "MERN Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:26:54] [WARN] Browser context closed.
+[1/9/2026, 11:27:11] [INFO] AI Job Hunter v1.0.0 starting...
+[1/9/2026, 11:27:11] [SUCCESS] Environment validation passed.
+[1/9/2026, 11:27:11] [SUCCESS] All required directories verified/created.
+[1/9/2026, 11:27:12] [SUCCESS] Connected to MongoDB Atlas.
+[1/9/2026, 11:27:12] [SUCCESS] Resume parsed (5786 characters).
+[1/9/2026, 11:27:12] [INFO] Launching browser...
+[1/9/2026, 11:27:13] [SUCCESS] Browser launched with persistent session.
+[1/9/2026, 11:27:13] [INFO] Checking Naukri login status...
+[1/9/2026, 11:27:14] [WARN] Not logged in. Opening login page for manual login...
+[1/9/2026, 11:27:14] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[1/9/2026, 11:27:17] [SUCCESS] Login detected. Session will be reused next time.
+[1/9/2026, 11:27:17] [ERROR] Skipping role "JavaScript Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:21] [ERROR] Skipping role "JavaScript Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:23] [ERROR] Skipping role "React Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:25] [ERROR] Skipping role "React JS Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:28] [ERROR] Skipping role "React Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:30] [ERROR] Skipping role "Node.js Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:34] [ERROR] Skipping role "Node Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:37] [ERROR] Skipping role "Node.js Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:39] [ERROR] Skipping role "MERN Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:41] [ERROR] Skipping role "MERN Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:44] [ERROR] Skipping role "MERN Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:46] [ERROR] Skipping role "MERN Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:49] [ERROR] Skipping role "Frontend Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:53] [ERROR] Skipping role "Front End Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:55] [ERROR] Skipping role "Frontend Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:27:58] [ERROR] Skipping role "Backend Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:28:01] [ERROR] Skipping role "Backend Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:28:04] [ERROR] Skipping role "Backend Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:28:07] [ERROR] Skipping role "Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:28:10] [ERROR] Skipping role "Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:28:13] [ERROR] Skipping role "Full Stack Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:28:15] [ERROR] Skipping role "Software Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:28:18] [ERROR] Skipping role "Software Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:28:21] [ERROR] Skipping role "Web Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:28:23] [ERROR] Skipping role "Web Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:28:27] [ERROR] Skipping role "Frontend Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:28:29] [ERROR] Skipping role "JavaScript Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:28:32] [ERROR] Skipping role "React Node Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:28:34] [SUCCESS] Total jobs collected across all roles: 0
+[1/9/2026, 11:28:34] [SUCCESS] 0 job(s) processed into database.
+[1/9/2026, 11:28:34] [INFO] Matching 75 unmatched job(s)...
+[1/9/2026, 11:28:35] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197763, Requested 2603. Please try again in 2m38.112s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:35] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:28:35] [ERROR] Matching failed for "Senior Full Stack Developer (MERN)": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197763, Requested 2609. Please try again in 2m40.704s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:35] [WARN] Match failed for "Senior Full Stack Developer (MERN)": Failed to match resume to job
+[1/9/2026, 11:28:35] [ERROR] Matching failed for "Software Engineer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197762, Requested 2635. Please try again in 2m51.504s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:35] [WARN] Match failed for "Software Engineer": Failed to match resume to job
+[1/9/2026, 11:28:35] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197762, Requested 3489. Please try again in 9m0.432s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:35] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:28:35] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197762, Requested 2602. Please try again in 2m37.248s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:35] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:28:35] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197761, Requested 2609. Please try again in 2m39.84s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:35] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:28:35] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197761, Requested 2604. Please try again in 2m37.68s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:35] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:28:36] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197761, Requested 2632. Please try again in 2m49.776s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:36] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:28:36] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197761, Requested 2601. Please try again in 2m36.384s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:36] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:28:36] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197761, Requested 2602. Please try again in 2m36.816s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:36] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:28:36] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197760, Requested 2635. Please try again in 2m50.64s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:36] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:28:36] [ERROR] Matching failed for "Frontend developers": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197760, Requested 2608. Please try again in 2m38.976s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:36] [WARN] Match failed for "Frontend developers": Failed to match resume to job
+[1/9/2026, 11:28:36] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197760, Requested 2602. Please try again in 2m36.384s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:36] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:28:36] [ERROR] Matching failed for "Trainee UX/Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197759, Requested 2608. Please try again in 2m38.544s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:36] [WARN] Match failed for "Trainee UX/Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:28:36] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197759, Requested 2643. Please try again in 2m53.664s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:36] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:28:36] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197759, Requested 2634. Please try again in 2m49.776s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:36] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:28:37] [ERROR] Matching failed for "Frontend Developer (SDE II)": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197759, Requested 3491. Please try again in 9m0s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:37] [WARN] Match failed for "Frontend Developer (SDE II)": Failed to match resume to job
+[1/9/2026, 11:28:37] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197758, Requested 3491. Please try again in 8m59.568s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:37] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:28:37] [ERROR] Matching failed for "Walk-in || Looking For Frontend Developer (Angular JS) at KJ Systems.": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197758, Requested 2620. Please try again in 2m43.296s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:37] [WARN] Match failed for "Walk-in || Looking For Frontend Developer (Angular JS) at KJ Systems.": Failed to match resume to job
+[1/9/2026, 11:28:37] [ERROR] Matching failed for "React Js developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197758, Requested 2636. Please try again in 2m50.208s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:37] [WARN] Match failed for "React Js developer": Failed to match resume to job
+[1/9/2026, 11:28:37] [ERROR] Matching failed for "React.js Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197758, Requested 3492. Please try again in 9m0s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:37] [WARN] Match failed for "React.js Developer": Failed to match resume to job
+[1/9/2026, 11:28:37] [ERROR] Matching failed for "Software Developer - Intern (React Js Developer)": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197757, Requested 3494. Please try again in 9m0.432s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:37] [WARN] Match failed for "Software Developer - Intern (React Js Developer)": Failed to match resume to job
+[1/9/2026, 11:28:37] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197757, Requested 2636. Please try again in 2m49.776s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:37] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:28:37] [ERROR] Matching failed for "AI & Full Stack Developer Intern (Node.js | React | OpenAI | Voice AI)": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197757, Requested 2642. Please try again in 2m52.368s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:37] [WARN] Match failed for "AI & Full Stack Developer Intern (Node.js | React | OpenAI | Voice AI)": Failed to match resume to job
+[1/9/2026, 11:28:37] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197757, Requested 2638. Please try again in 2m50.64s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:37] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:28:38] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197756, Requested 2636. Please try again in 2m49.344s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:38] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:28:38] [ERROR] Matching failed for "REACT JS DEVELOPER": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197756, Requested 3496. Please try again in 9m0.864s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:38] [WARN] Match failed for "REACT JS DEVELOPER": Failed to match resume to job
+[1/9/2026, 11:28:38] [ERROR] Matching failed for "Junior React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197756, Requested 2636. Please try again in 2m49.344s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:38] [WARN] Match failed for "Junior React JS Developer": Failed to match resume to job
+[1/9/2026, 11:28:38] [ERROR] Matching failed for "React Js developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197756, Requested 3491. Please try again in 8m58.704s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:38] [WARN] Match failed for "React Js developer": Failed to match resume to job
+[1/9/2026, 11:28:38] [ERROR] Matching failed for "React js developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197754, Requested 2603. Please try again in 2m34.224s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:38] [WARN] Match failed for "React js developer": Failed to match resume to job
+[1/9/2026, 11:28:39] [ERROR] Matching failed for "React.js Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197754, Requested 2638. Please try again in 2m49.344s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:39] [WARN] Match failed for "React.js Developer": Failed to match resume to job
+[1/9/2026, 11:28:39] [ERROR] Matching failed for "React.js Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197754, Requested 3498. Please try again in 9m0.864s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:39] [WARN] Match failed for "React.js Developer": Failed to match resume to job
+[1/9/2026, 11:28:39] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197753, Requested 2637. Please try again in 2m48.48s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:39] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:28:39] [ERROR] Matching failed for "REACT JS DEVELOPER": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197753, Requested 2636. Please try again in 2m48.048s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:39] [WARN] Match failed for "REACT JS DEVELOPER": Failed to match resume to job
+[1/9/2026, 11:28:39] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197753, Requested 3486. Please try again in 8m55.248s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:39] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:28:39] [ERROR] Matching failed for "React Js Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197753, Requested 2603. Please try again in 2m33.792s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:39] [WARN] Match failed for "React Js Developer": Failed to match resume to job
+[1/9/2026, 11:28:40] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197752, Requested 2632. Please try again in 2m45.888s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:40] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:28:40] [ERROR] Matching failed for "ReactJS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197751, Requested 2636. Please try again in 2m47.184s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:40] [WARN] Match failed for "ReactJS Developer": Failed to match resume to job
+[1/9/2026, 11:28:40] [WARN] Browser context closed.
+[1/9/2026, 11:28:40] [ERROR] Matching failed for "Reactjs Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197751, Requested 3494. Please try again in 8m57.839999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:40] [WARN] Match failed for "Reactjs Developer": Failed to match resume to job
+[1/9/2026, 11:28:40] [ERROR] Matching failed for "Walk-in || MERN Full Stack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197751, Requested 2612. Please try again in 2m36.816s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:40] [WARN] Match failed for "Walk-in || MERN Full Stack Developer": Failed to match resume to job
+[1/9/2026, 11:28:40] [ERROR] Matching failed for "Fullstack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197751, Requested 2604. Please try again in 2m33.36s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:40] [WARN] Match failed for "Fullstack Developer": Failed to match resume to job
+[1/9/2026, 11:28:40] [ERROR] Matching failed for "MERN Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197750, Requested 3495. Please try again in 8m57.839999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:28:40] [WARN] Match failed for "MERN Developer": Failed to match resume to job
+[1/9/2026, 11:28:58] [INFO] AI Job Hunter v1.0.0 starting...
+[1/9/2026, 11:28:58] [SUCCESS] Environment validation passed.
+[1/9/2026, 11:28:58] [SUCCESS] All required directories verified/created.
+[1/9/2026, 11:29:00] [SUCCESS] Connected to MongoDB Atlas.
+[1/9/2026, 11:29:00] [SUCCESS] Resume parsed (5786 characters).
+[1/9/2026, 11:29:00] [INFO] Launching browser...
+[1/9/2026, 11:29:03] [SUCCESS] Browser launched with persistent session.
+[1/9/2026, 11:29:03] [INFO] Checking Naukri login status...
+[1/9/2026, 11:29:04] [WARN] Not logged in. Opening login page for manual login...
+[1/9/2026, 11:29:04] [INFO] Please log in manually in the opened browser window. Waiting up to 120s...
+[1/9/2026, 11:29:07] [SUCCESS] Login detected. Session will be reused next time.
+[1/9/2026, 11:29:07] [ERROR] Skipping role "JavaScript Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:10] [ERROR] Skipping role "JavaScript Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:13] [ERROR] Skipping role "React Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:15] [ERROR] Skipping role "React JS Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:18] [ERROR] Skipping role "React Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:21] [ERROR] Skipping role "Node.js Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:23] [ERROR] Skipping role "Node Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:25] [ERROR] Skipping role "Node.js Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:29] [ERROR] Skipping role "MERN Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:32] [ERROR] Skipping role "MERN Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:35] [ERROR] Skipping role "MERN Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:38] [ERROR] Skipping role "MERN Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:40] [ERROR] Skipping role "Frontend Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:42] [ERROR] Skipping role "Front End Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:45] [ERROR] Skipping role "Frontend Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:47] [ERROR] Skipping role "Backend Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:49] [ERROR] Skipping role "Backend Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:52] [ERROR] Skipping role "Backend Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:55] [ERROR] Skipping role "Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:29:58] [ERROR] Skipping role "Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:30:00] [ERROR] Skipping role "Full Stack Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:30:02] [ERROR] Skipping role "Software Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:30:04] [ERROR] Skipping role "Software Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:30:07] [ERROR] Skipping role "Web Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:30:09] [ERROR] Skipping role "Web Engineer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:30:12] [ERROR] Skipping role "Frontend Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:30:14] [ERROR] Skipping role "JavaScript Full Stack Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:30:17] [ERROR] Skipping role "React Node Developer": Cannot read properties of undefined (reading 'toLowerCase')
+[1/9/2026, 11:30:19] [SUCCESS] Total jobs collected across all roles: 0
+[1/9/2026, 11:30:19] [SUCCESS] 0 job(s) processed into database.
+[1/9/2026, 11:30:19] [INFO] Matching 75 unmatched job(s)...
+[1/9/2026, 11:30:22] [ERROR] Matching failed for "Frontend Developer": Unexpected end of JSON input
+[1/9/2026, 11:30:22] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:30:22] [ERROR] Matching failed for "Senior Full Stack Developer (MERN)": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199723, Requested 2609. Please try again in 16m47.424s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:22] [WARN] Match failed for "Senior Full Stack Developer (MERN)": Failed to match resume to job
+[1/9/2026, 11:30:22] [ERROR] Matching failed for "Software Engineer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199723, Requested 2635. Please try again in 16m58.656s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:22] [WARN] Match failed for "Software Engineer": Failed to match resume to job
+[1/9/2026, 11:30:22] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199722, Requested 2634. Please try again in 16m57.792s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:22] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:30:23] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199722, Requested 2632. Please try again in 16m56.927999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:23] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:30:23] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199722, Requested 2609. Please try again in 16m46.992s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:23] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:30:23] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199722, Requested 1442. Please try again in 8m22.847999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:23] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:30:23] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199721, Requested 2632. Please try again in 16m56.496s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:23] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:30:23] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199721, Requested 2601. Please try again in 16m43.104s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:23] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:30:23] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199721, Requested 2632. Please try again in 16m56.496s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:23] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:30:23] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199721, Requested 2635. Please try again in 16m57.792s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:23] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:30:23] [ERROR] Matching failed for "Frontend developers": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199720, Requested 1446. Please try again in 8m23.712s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:23] [WARN] Match failed for "Frontend developers": Failed to match resume to job
+[1/9/2026, 11:30:23] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199720, Requested 1440. Please try again in 8m21.119999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:23] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:30:23] [ERROR] Matching failed for "Trainee UX/Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199720, Requested 2638. Please try again in 16m58.656s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:23] [WARN] Match failed for "Trainee UX/Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:30:24] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199720, Requested 2643. Please try again in 17m0.816s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:24] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:30:24] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199720, Requested 1442. Please try again in 8m21.984s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:24] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:30:24] [ERROR] Matching failed for "Frontend Developer (SDE II)": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199719, Requested 1444. Please try again in 8m22.416s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:24] [WARN] Match failed for "Frontend Developer (SDE II)": Failed to match resume to job
+[1/9/2026, 11:30:24] [ERROR] Matching failed for "Frontend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199719, Requested 1444. Please try again in 8m22.416s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:24] [WARN] Match failed for "Frontend Developer": Failed to match resume to job
+[1/9/2026, 11:30:24] [ERROR] Matching failed for "Walk-in || Looking For Frontend Developer (Angular JS) at KJ Systems.": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199719, Requested 2650. Please try again in 17m3.408s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:24] [WARN] Match failed for "Walk-in || Looking For Frontend Developer (Angular JS) at KJ Systems.": Failed to match resume to job
+[1/9/2026, 11:30:24] [ERROR] Matching failed for "React Js developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199719, Requested 1444. Please try again in 8m22.416s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:24] [WARN] Match failed for "React Js developer": Failed to match resume to job
+[1/9/2026, 11:30:24] [ERROR] Matching failed for "React.js Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199718, Requested 2637. Please try again in 16m57.36s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:24] [WARN] Match failed for "React.js Developer": Failed to match resume to job
+[1/9/2026, 11:30:24] [ERROR] Matching failed for "Software Developer - Intern (React Js Developer)": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199718, Requested 2609. Please try again in 16m45.264s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:24] [WARN] Match failed for "Software Developer - Intern (React Js Developer)": Failed to match resume to job
+[1/9/2026, 11:30:24] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199718, Requested 2606. Please try again in 16m43.968s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:24] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:30:25] [ERROR] Matching failed for "AI & Full Stack Developer Intern (Node.js | React | OpenAI | Voice AI)": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199718, Requested 3497. Please try again in 23m8.88s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:25] [WARN] Match failed for "AI & Full Stack Developer Intern (Node.js | React | OpenAI | Voice AI)": Failed to match resume to job
+[1/9/2026, 11:30:25] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199717, Requested 2638. Please try again in 16m57.36s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:25] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:30:25] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199717, Requested 2606. Please try again in 16m43.536s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:25] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:30:25] [ERROR] Matching failed for "REACT JS DEVELOPER": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199717, Requested 3496. Please try again in 23m8.015999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:25] [WARN] Match failed for "REACT JS DEVELOPER": Failed to match resume to job
+[1/9/2026, 11:30:25] [ERROR] Matching failed for "Junior React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199717, Requested 3491. Please try again in 23m5.856s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:25] [WARN] Match failed for "Junior React JS Developer": Failed to match resume to job
+[1/9/2026, 11:30:25] [ERROR] Matching failed for "React Js developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199717, Requested 2636. Please try again in 16m56.496s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:25] [WARN] Match failed for "React Js developer": Failed to match resume to job
+[1/9/2026, 11:30:25] [ERROR] Matching failed for "React js developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199716, Requested 2603. Please try again in 16m41.808s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:25] [WARN] Match failed for "React js developer": Failed to match resume to job
+[1/9/2026, 11:30:25] [ERROR] Matching failed for "React.js Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199716, Requested 2608. Please try again in 16m43.968s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:25] [WARN] Match failed for "React.js Developer": Failed to match resume to job
+[1/9/2026, 11:30:25] [ERROR] Matching failed for "React.js Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199716, Requested 3498. Please try again in 23m8.448s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:25] [WARN] Match failed for "React.js Developer": Failed to match resume to job
+[1/9/2026, 11:30:25] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199716, Requested 2637. Please try again in 16m56.496s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:25] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:30:25] [ERROR] Matching failed for "REACT JS DEVELOPER": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199715, Requested 3491. Please try again in 23m4.992s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:25] [WARN] Match failed for "REACT JS DEVELOPER": Failed to match resume to job
+[1/9/2026, 11:30:26] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199715, Requested 2601. Please try again in 16m40.512s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:26] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:30:26] [ERROR] Matching failed for "React Js Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199715, Requested 3488. Please try again in 23m3.696s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:26] [WARN] Match failed for "React Js Developer": Failed to match resume to job
+[1/9/2026, 11:30:26] [ERROR] Matching failed for "React JS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199715, Requested 2602. Please try again in 16m40.944s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:26] [WARN] Match failed for "React JS Developer": Failed to match resume to job
+[1/9/2026, 11:30:26] [ERROR] Matching failed for "ReactJS Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199714, Requested 2636. Please try again in 16m55.2s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:26] [WARN] Match failed for "ReactJS Developer": Failed to match resume to job
+[1/9/2026, 11:30:26] [ERROR] Matching failed for "Reactjs Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199714, Requested 2639. Please try again in 16m56.496s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:26] [WARN] Match failed for "Reactjs Developer": Failed to match resume to job
+[1/9/2026, 11:30:26] [ERROR] Matching failed for "Walk-in || MERN Full Stack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199714, Requested 2642. Please try again in 16m57.792s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:26] [WARN] Match failed for "Walk-in || MERN Full Stack Developer": Failed to match resume to job
+[1/9/2026, 11:30:26] [ERROR] Matching failed for "Fullstack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199714, Requested 2604. Please try again in 16m41.376s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:26] [WARN] Match failed for "Fullstack Developer": Failed to match resume to job
+[1/9/2026, 11:30:26] [ERROR] Matching failed for "MERN Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199713, Requested 2640. Please try again in 16m56.496s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:26] [WARN] Match failed for "MERN Developer": Failed to match resume to job
+[1/9/2026, 11:30:26] [ERROR] Matching failed for "Mernstack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199713, Requested 2637. Please try again in 16m55.2s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:26] [WARN] Match failed for "Mernstack Developer": Failed to match resume to job
+[1/9/2026, 11:30:27] [ERROR] Matching failed for "MERN Stack Developer (Intern)": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199713, Requested 2612. Please try again in 16m44.4s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:27] [WARN] Match failed for "MERN Stack Developer (Intern)": Failed to match resume to job
+[1/9/2026, 11:30:27] [ERROR] Matching failed for "Web Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199713, Requested 2608. Please try again in 16m42.672s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:27] [WARN] Match failed for "Web Developer": Failed to match resume to job
+[1/9/2026, 11:30:27] [ERROR] Matching failed for "Web Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199712, Requested 3491. Please try again in 23m3.696s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:27] [WARN] Match failed for "Web Developer": Failed to match resume to job
+[1/9/2026, 11:30:27] [ERROR] Matching failed for "Web Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199712, Requested 2634. Please try again in 16m53.472s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:27] [WARN] Match failed for "Web Developer": Failed to match resume to job
+[1/9/2026, 11:30:27] [ERROR] Matching failed for "Web Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199712, Requested 2634. Please try again in 16m53.472s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:27] [WARN] Match failed for "Web Developer": Failed to match resume to job
+[1/9/2026, 11:30:27] [ERROR] Matching failed for "Java developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199712, Requested 2603. Please try again in 16m40.08s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:27] [WARN] Match failed for "Java developer": Failed to match resume to job
+[1/9/2026, 11:30:27] [ERROR] Matching failed for "Full Stack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199712, Requested 2603. Please try again in 16m40.08s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:27] [WARN] Match failed for "Full Stack Developer": Failed to match resume to job
+[1/9/2026, 11:30:27] [ERROR] Matching failed for "Walk-in || AI Automation Engineer or Agentic AI": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199711, Requested 2614. Please try again in 16m44.4s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:27] [WARN] Match failed for "Walk-in || AI Automation Engineer or Agentic AI": Failed to match resume to job
+[1/9/2026, 11:30:27] [ERROR] Matching failed for "Software Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199711, Requested 2604. Please try again in 16m40.08s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:27] [WARN] Match failed for "Software Developer": Failed to match resume to job
+[1/9/2026, 11:30:27] [ERROR] Matching failed for "Full Stack Developer Trainee": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199711, Requested 2639. Please try again in 16m55.2s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:27] [WARN] Match failed for "Full Stack Developer Trainee": Failed to match resume to job
+[1/9/2026, 11:30:28] [ERROR] Matching failed for "Full Stack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199711, Requested 2604. Please try again in 16m40.08s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:28] [WARN] Match failed for "Full Stack Developer": Failed to match resume to job
+[1/9/2026, 11:30:28] [ERROR] Matching failed for "MERN Stack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199710, Requested 2635. Please try again in 16m53.04s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:28] [WARN] Match failed for "MERN Stack Developer": Failed to match resume to job
+[1/9/2026, 11:30:28] [ERROR] Matching failed for "Junior MERN Engineer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199710, Requested 2605. Please try again in 16m40.08s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:28] [WARN] Match failed for "Junior MERN Engineer": Failed to match resume to job
+[1/9/2026, 11:30:28] [ERROR] Matching failed for "Junior MERN Stack Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199710, Requested 2639. Please try again in 16m54.768s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:28] [WARN] Match failed for "Junior MERN Stack Developer": Failed to match resume to job
+[1/9/2026, 11:30:28] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199710, Requested 2605. Please try again in 16m40.08s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:28] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:30:28] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199709, Requested 2636. Please try again in 16m53.04s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:28] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:30:28] [ERROR] Matching failed for "backend developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199709, Requested 3501. Please try again in 23m6.719999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:28] [WARN] Match failed for "backend developer": Failed to match resume to job
+[1/9/2026, 11:30:28] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199709, Requested 2603. Please try again in 16m38.784s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:28] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:30:28] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199708, Requested 2633. Please try again in 16m51.312s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:28] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:30:29] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199708, Requested 3489. Please try again in 23m1.104s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:29] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:30:29] [ERROR] Matching failed for "Backend developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199708, Requested 3490. Please try again in 23m1.536s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:29] [WARN] Match failed for "Backend developer": Failed to match resume to job
+[1/9/2026, 11:30:29] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199708, Requested 2609. Please try again in 16m40.944s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:29] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:30:29] [ERROR] Matching failed for "Dotnet Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199707, Requested 3489. Please try again in 23m0.672s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:29] [WARN] Match failed for "Dotnet Backend Developer": Failed to match resume to job
+[1/9/2026, 11:30:29] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199706, Requested 2603. Please try again in 16m37.488s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:29] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:30:29] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199706, Requested 2605. Please try again in 16m38.352s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:29] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:30:30] [ERROR] Matching failed for "Midlevel Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199706, Requested 3494. Please try again in 23m2.4s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:30] [WARN] Match failed for "Midlevel Backend Developer": Failed to match resume to job
+[1/9/2026, 11:30:30] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199706, Requested 2629. Please try again in 16m48.719999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:30] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:30:30] [ERROR] Matching failed for "API & Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199705, Requested 2637. Please try again in 16m51.744s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:30] [WARN] Match failed for "API & Backend Developer": Failed to match resume to job
+[1/9/2026, 11:30:30] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199705, Requested 2601. Please try again in 16m36.192s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:30] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:30:30] [ERROR] Matching failed for "Backend Developer- RenewBuy": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199705, Requested 2604. Please try again in 16m37.488s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:30] [WARN] Match failed for "Backend Developer- RenewBuy": Failed to match resume to job
+[1/9/2026, 11:30:30] [ERROR] Matching failed for "BackEnd Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199705, Requested 2600. Please try again in 16m35.76s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:30] [WARN] Match failed for "BackEnd Developer": Failed to match resume to job
+[1/9/2026, 11:30:30] [ERROR] Matching failed for "Backend Developer": 429 Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m0cj1dpeersvyrmw47hvqtge` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199704, Requested 3486. Please try again in 22m58.08s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing
+[1/9/2026, 11:30:30] [WARN] Match failed for "Backend Developer": Failed to match resume to job
+[1/9/2026, 11:30:31] [INFO] Applying to 115 approved job(s)...
+[1/9/2026, 11:30:31] [WARN] 115 jobs approved, but limiting to 100 per run.
+[1/9/2026, 11:30:31] [INFO] [1/100] Processing application...
+[1/9/2026, 11:30:31] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:30:33] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:30:33] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242433125_7peb5m.png
+[1/9/2026, 11:30:37] [INFO] [2/100] Processing application...
+[1/9/2026, 11:30:37] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:30:40] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:30:40] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242440030_ye3u0t.png
+[1/9/2026, 11:30:43] [INFO] [3/100] Processing application...
+[1/9/2026, 11:30:43] [INFO] Applying to: Software Engineer @ Creative Hands HR
+[1/9/2026, 11:30:46] [WARN] No apply button found for "Software Engineer". Skipping.
+[1/9/2026, 11:30:46] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer_id_1788242446466_t0b2q3.png
+[1/9/2026, 11:30:51] [INFO] [4/100] Processing application...
+[1/9/2026, 11:30:51] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:30:53] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:30:53] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242453510_tfetfs.png
+[1/9/2026, 11:30:58] [INFO] [5/100] Processing application...
+[1/9/2026, 11:30:58] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:31:00] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:31:01] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242460777_ei6mws.png
+[1/9/2026, 11:31:04] [INFO] [6/100] Processing application...
+[1/9/2026, 11:31:04] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:31:06] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:31:07] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242466718_qxh2us.png
+[1/9/2026, 11:31:10] [INFO] [7/100] Processing application...
+[1/9/2026, 11:31:10] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:31:13] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:31:14] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242473491_8jvd26.png
+[1/9/2026, 11:31:18] [INFO] [8/100] Processing application...
+[1/9/2026, 11:31:18] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:31:20] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:31:21] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242480933_g0n10t.png
+[1/9/2026, 11:31:26] [INFO] [9/100] Processing application...
+[1/9/2026, 11:31:26] [INFO] Applying to: Software Engineer @ Wheelseye Technology
+[1/9/2026, 11:31:31] [SUCCESS] Resume uploaded via file input.
+[1/9/2026, 11:31:31] [WARN] Screening questions popup detected. Please answer manually in the browser window.
+[1/9/2026, 11:33:01] [WARN] Screening popup still open after timeout. Continuing anyway.
+[1/9/2026, 11:33:02] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Software Engineer_id_1788242581537_fvp98a.png
+[1/9/2026, 11:33:02] [SUCCESS] Applied successfully: Software Engineer @ Wheelseye Technology
+[1/9/2026, 11:33:07] [INFO] [10/100] Processing application...
+[1/9/2026, 11:33:07] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:33:10] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:33:11] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242590436_cu7n2h.png
+[1/9/2026, 11:33:15] [INFO] [11/100] Processing application...
+[1/9/2026, 11:33:15] [INFO] Applying to: Software Engineer @ Cisco
+[1/9/2026, 11:33:18] [WARN] No apply button found for "Software Engineer". Skipping.
+[1/9/2026, 11:33:21] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer_id_1788242598929_7ektf9.png
+[1/9/2026, 11:33:25] [INFO] [12/100] Processing application...
+[1/9/2026, 11:33:25] [INFO] Applying to: Software Engineer @ Cisco
+[1/9/2026, 11:33:28] [WARN] No apply button found for "Software Engineer". Skipping.
+[1/9/2026, 11:33:29] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer_id_1788242608342_xyv3t8.png
+[1/9/2026, 11:33:32] [INFO] [13/100] Processing application...
+[1/9/2026, 11:33:32] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:33:35] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:33:36] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242615683_lihr3z.png
+[1/9/2026, 11:33:40] [INFO] [14/100] Processing application...
+[1/9/2026, 11:33:40] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:33:43] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:33:44] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242623467_uits4g.png
+[1/9/2026, 11:33:48] [INFO] [15/100] Processing application...
+[1/9/2026, 11:33:48] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:33:51] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:33:52] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242631250_048owk.png
+[1/9/2026, 11:33:56] [INFO] [16/100] Processing application...
+[1/9/2026, 11:33:56] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:33:59] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:34:00] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242639116_pre26q.png
+[1/9/2026, 11:34:03] [INFO] [17/100] Processing application...
+[1/9/2026, 11:34:03] [INFO] Applying to: Custom Software Engineer @ Accenture
+[1/9/2026, 11:34:06] [WARN] No apply button found for "Custom Software Engineer". Skipping.
+[1/9/2026, 11:34:07] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Custom Software Engi_id_1788242646363_xqslbs.png
+[1/9/2026, 11:34:10] [INFO] [18/100] Processing application...
+[1/9/2026, 11:34:10] [INFO] Applying to: Software Engineer @ R1 RCM
+[1/9/2026, 11:34:15] [DEBUG] No file upload input found (likely using profile resume).
+[1/9/2026, 11:34:15] [DEBUG] No screening questions popup detected.
+[1/9/2026, 11:34:18] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Software Engineer_id_1788242655881_y6d7ey.png
+[1/9/2026, 11:34:18] [SUCCESS] Applied successfully: Software Engineer @ R1 RCM
+[1/9/2026, 11:34:23] [INFO] [19/100] Processing application...
+[1/9/2026, 11:34:23] [INFO] Applying to: Frontend Developer @ Tech Stalwart Solution
+[1/9/2026, 11:34:26] [WARN] No apply button found for "Frontend Developer". Skipping.
+[1/9/2026, 11:34:27] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1788242666647_fpjnpc.png
+[1/9/2026, 11:34:31] [INFO] [20/100] Processing application...
+[1/9/2026, 11:34:31] [INFO] Applying to: Frontend Developer @ Fincart Finvest
+[1/9/2026, 11:34:37] [SUCCESS] Resume uploaded via file input.
+[1/9/2026, 11:34:37] [WARN] Screening questions popup detected. Please answer manually in the browser window.
+[1/9/2026, 11:36:07] [WARN] Screening popup still open after timeout. Continuing anyway.
+[1/9/2026, 11:36:08] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Frontend Developer_id_1788242767344_cqeab7.png
+[1/9/2026, 11:36:08] [SUCCESS] Applied successfully: Frontend Developer @ Fincart Finvest
+[1/9/2026, 11:36:12] [INFO] [21/100] Processing application...
+[1/9/2026, 11:36:12] [INFO] Applying to: Frontend Developer @ ProdEX Technologies
+[1/9/2026, 11:36:15] [WARN] No apply button found for "Frontend Developer". Skipping.
+[1/9/2026, 11:36:16] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1788242775331_lti8d9.png
+[1/9/2026, 11:36:19] [INFO] [22/100] Processing application...
+[1/9/2026, 11:36:19] [INFO] Applying to: Frontend Developer @ BG Systems
+[1/9/2026, 11:36:21] [WARN] No apply button found for "Frontend Developer". Skipping.
+[1/9/2026, 11:36:22] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1788242781706_my4vja.png
+[1/9/2026, 11:36:27] [INFO] [23/100] Processing application...
+[1/9/2026, 11:36:27] [INFO] Applying to: Frontend developer @ Markschamp
+[1/9/2026, 11:36:29] [WARN] No apply button found for "Frontend developer". Skipping.
+[1/9/2026, 11:36:30] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend developer_id_1788242789676_rk7pa1.png
+[1/9/2026, 11:36:35] [INFO] [24/100] Processing application...
+[1/9/2026, 11:36:35] [INFO] Applying to: Frontend Developer @ Success Sign
+[1/9/2026, 11:36:37] [WARN] No apply button found for "Frontend Developer". Skipping.
+[1/9/2026, 11:36:37] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1788242797164_wkpazd.png
+[1/9/2026, 11:36:41] [INFO] [25/100] Processing application...
+[1/9/2026, 11:36:41] [INFO] Applying to: Frontend Developer @ Spring Edge
+[1/9/2026, 11:36:43] [WARN] No apply button found for "Frontend Developer". Skipping.
+[1/9/2026, 11:36:44] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1788242803675_210w7h.png
+[1/9/2026, 11:36:48] [INFO] [26/100] Processing application...
+[1/9/2026, 11:36:48] [INFO] Applying to: Consultant - Frontend Developer @ Artify Talent Studio
+[1/9/2026, 11:36:51] [WARN] No apply button found for "Consultant - Frontend Developer". Skipping.
+[1/9/2026, 11:36:51] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Consultant - Fronten_id_1788242811041_h5n0dk.png
+[1/9/2026, 11:36:56] [INFO] [27/100] Processing application...
+[1/9/2026, 11:36:56] [INFO] Applying to: Next.js & Frontend Developer @ Oneggy Technologies
+[1/9/2026, 11:36:58] [WARN] No apply button found for "Next.js & Frontend Developer". Skipping.
+[1/9/2026, 11:36:59] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Next.js & Frontend D_id_1788242818720_v1b1z2.png
+[1/9/2026, 11:37:02] [INFO] [28/100] Processing application...
+[1/9/2026, 11:37:02] [INFO] Applying to: frontend developer @ Sutraa Technosoft
+[1/9/2026, 11:37:06] [WARN] No apply button found for "frontend developer". Skipping.
+[1/9/2026, 11:37:07] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-frontend developer_id_1788242826462_tvg6ts.png
+[1/9/2026, 11:37:11] [INFO] [29/100] Processing application...
+[1/9/2026, 11:37:11] [INFO] Applying to: Backend and Frontend Developer @ Fresha
+[1/9/2026, 11:37:13] [WARN] No apply button found for "Backend and Frontend Developer". Skipping.
+[1/9/2026, 11:37:14] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend and Frontend_id_1788242833681_g3bbxz.png
+[1/9/2026, 11:37:18] [INFO] [30/100] Processing application...
+[1/9/2026, 11:37:18] [INFO] Applying to: Frontend Developer @ JB Arrowstar Solutions
+[1/9/2026, 11:37:20] [WARN] No apply button found for "Frontend Developer". Skipping.
+[1/9/2026, 11:37:21] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1788242840843_z5pxsq.png
+[1/9/2026, 11:37:25] [INFO] [31/100] Processing application...
+[1/9/2026, 11:37:25] [INFO] Applying to: Frontend Developer @ Appsquadz Technologies
+[1/9/2026, 11:37:29] [WARN] No apply button found for "Frontend Developer". Skipping.
+[1/9/2026, 11:37:30] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1788242849207_akkoy0.png
+[1/9/2026, 11:37:35] [INFO] [32/100] Processing application...
+[1/9/2026, 11:37:35] [INFO] Applying to: Frontend Developer @ Corpseed
+[1/9/2026, 11:37:37] [WARN] No apply button found for "Frontend Developer". Skipping.
+[1/9/2026, 11:37:39] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1788242857597_7avh1k.png
+[1/9/2026, 11:37:44] [INFO] [33/100] Processing application...
+[1/9/2026, 11:37:44] [INFO] Applying to: Frontend Developer @ Virtual Shipment
+[1/9/2026, 11:37:46] [WARN] No apply button found for "Frontend Developer". Skipping.
+[1/9/2026, 11:37:47] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1788242866611_nzse98.png
+[1/9/2026, 11:37:50] [INFO] [34/100] Processing application...
+[1/9/2026, 11:37:50] [INFO] Applying to: Frontend Developer @ Telloquent
+[1/9/2026, 11:37:53] [WARN] No apply button found for "Frontend Developer". Skipping.
+[1/9/2026, 11:37:54] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1788242873378_9k9tct.png
+[1/9/2026, 11:37:58] [INFO] [35/100] Processing application...
+[1/9/2026, 11:37:58] [INFO] Applying to: Frontend Developer @ Visdum
+[1/9/2026, 11:38:00] [WARN] No apply button found for "Frontend Developer". Skipping.
+[1/9/2026, 11:38:01] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1788242880515_31ztyq.png
+[1/9/2026, 11:38:04] [INFO] [36/100] Processing application...
+[1/9/2026, 11:38:04] [INFO] Applying to: Frontend Developer @ Tech Beat Services Noida
+[1/9/2026, 11:38:07] [WARN] No apply button found for "Frontend Developer". Skipping.
+[1/9/2026, 11:38:08] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1788242887556_w3pnds.png
+[1/9/2026, 11:38:12] [INFO] [37/100] Processing application...
+[1/9/2026, 11:38:12] [INFO] Applying to: Frontend Developer @ Yugasys Software
+[1/9/2026, 11:38:14] [WARN] No apply button found for "Frontend Developer". Skipping.
+[1/9/2026, 11:38:15] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Frontend Developer_id_1788242894743_5eet5s.png
+[1/9/2026, 11:38:20] [INFO] [38/100] Processing application...
+[1/9/2026, 11:38:20] [INFO] Applying to: React.js Developer @ Infosys
+[1/9/2026, 11:38:25] [DEBUG] No file upload input found (likely using profile resume).
+[1/9/2026, 11:38:25] [DEBUG] No screening questions popup detected.
+[1/9/2026, 11:38:26] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-React.js Developer_id_1788242905576_39ubkk.png
+[1/9/2026, 11:38:26] [SUCCESS] Applied successfully: React.js Developer @ Infosys
+[1/9/2026, 11:38:30] [INFO] [39/100] Processing application...
+[1/9/2026, 11:38:30] [INFO] Applying to: React JS Developer-INF (2-3)YRS @ Infosys
+[1/9/2026, 11:38:36] [DEBUG] No file upload input found (likely using profile resume).
+[1/9/2026, 11:38:36] [DEBUG] No screening questions popup detected.
+[1/9/2026, 11:38:40] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-React JS Developer-I_id_1788242916656_wbb2ik.png
+[1/9/2026, 11:38:40] [SUCCESS] Applied successfully: React JS Developer-INF (2-3)YRS @ Infosys
+[1/9/2026, 11:38:44] [INFO] [40/100] Processing application...
+[1/9/2026, 11:38:44] [INFO] Applying to: .Net + React js Developer @ Gnrgy In
+[1/9/2026, 11:38:49] [DEBUG] No file upload input found (likely using profile resume).
+[1/9/2026, 11:38:49] [DEBUG] No screening questions popup detected.
+[1/9/2026, 11:38:50] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-.Net + React js Deve_id_1788242930000_aj1cht.png
+[1/9/2026, 11:38:50] [SUCCESS] Applied successfully: .Net + React js Developer @ Gnrgy In
+[1/9/2026, 11:38:53] [INFO] [41/100] Processing application...
+[1/9/2026, 11:38:53] [INFO] Applying to: React JS Developer @ Appsquadz Technologies
+[1/9/2026, 11:38:58] [WARN] No apply button found for "React JS Developer". Skipping.
+[1/9/2026, 11:39:00] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React JS Developer_id_1788242938967_rxs2zj.png
+[1/9/2026, 11:39:03] [INFO] [42/100] Processing application...
+[1/9/2026, 11:39:03] [INFO] Applying to: React Js Developer @ Arroyo Consulting
+[1/9/2026, 11:39:07] [WARN] No apply button found for "React Js Developer". Skipping.
+[1/9/2026, 11:39:08] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React Js Developer_id_1788242947029_nn0t1q.png
+[1/9/2026, 11:39:12] [INFO] [43/100] Processing application...
+[1/9/2026, 11:39:12] [INFO] Applying to: Full Stack Developer (React + Node.js) @ Dhrupra Services Pvt. Ltd.
+[1/9/2026, 11:39:17] [DEBUG] No file upload input found (likely using profile resume).
+[1/9/2026, 11:39:17] [DEBUG] No screening questions popup detected.
+[1/9/2026, 11:39:20] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Full Stack Developer_id_1788242957780_t99hg5.png
+[1/9/2026, 11:39:20] [SUCCESS] Applied successfully: Full Stack Developer (React + Node.js) @ Dhrupra Services Pvt. Ltd.
+[1/9/2026, 11:39:23] [INFO] [44/100] Processing application...
+[1/9/2026, 11:39:23] [INFO] Applying to: React . JS Developer @ Arsr Technologies
+[1/9/2026, 11:39:27] [WARN] No apply button found for "React . JS Developer". Skipping.
+[1/9/2026, 11:39:27] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React . JS Developer_id_1788242967026_hce506.png
+[1/9/2026, 11:39:31] [INFO] [45/100] Processing application...
+[1/9/2026, 11:39:31] [INFO] Applying to: React JS Developer @ Virtualware Innovations
+[1/9/2026, 11:39:34] [WARN] No apply button found for "React JS Developer". Skipping.
+[1/9/2026, 11:39:35] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React JS Developer_id_1788242974245_4t9m02.png
+[1/9/2026, 11:39:39] [INFO] [46/100] Processing application...
+[1/9/2026, 11:39:39] [INFO] Applying to: React JS Developer @ Swipelinc
+[1/9/2026, 11:39:41] [WARN] No apply button found for "React JS Developer". Skipping.
+[1/9/2026, 11:39:42] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React JS Developer_id_1788242981922_9u7ivd.png
+[1/9/2026, 11:39:46] [INFO] [47/100] Processing application...
+[1/9/2026, 11:39:46] [INFO] Applying to: React JS Developer @ Zenith Techlabs
+[1/9/2026, 11:39:48] [WARN] No apply button found for "React JS Developer". Skipping.
+[1/9/2026, 11:39:49] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React JS Developer_id_1788242988592_wq0guf.png
+[1/9/2026, 11:39:52] [INFO] [48/100] Processing application...
+[1/9/2026, 11:39:52] [INFO] Applying to: React JS Developer @ Swipelinc
+[1/9/2026, 11:39:54] [WARN] No apply button found for "React JS Developer". Skipping.
+[1/9/2026, 11:39:55] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React JS Developer_id_1788242994989_h3abl4.png
+[1/9/2026, 11:40:00] [INFO] [49/100] Processing application...
+[1/9/2026, 11:40:00] [INFO] Applying to: React Js Developer @ Thinkatronics
+[1/9/2026, 11:40:03] [WARN] No apply button found for "React Js Developer". Skipping.
+[1/9/2026, 11:40:03] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React Js Developer_id_1788243003131_ff77m1.png
+[1/9/2026, 11:40:07] [INFO] [50/100] Processing application...
+[1/9/2026, 11:40:07] [INFO] Applying to: React JS Developer @ Flentis Corporation
+[1/9/2026, 11:40:10] [WARN] No apply button found for "React JS Developer". Skipping.
+[1/9/2026, 11:40:10] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React JS Developer_id_1788243010156_jw179j.png
+[1/9/2026, 11:40:14] [INFO] [51/100] Processing application...
+[1/9/2026, 11:40:14] [INFO] Applying to: React . js Developer @ Appsinvo
+[1/9/2026, 11:40:17] [WARN] No apply button found for "React . js Developer". Skipping.
+[1/9/2026, 11:40:18] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React . js Developer_id_1788243017388_a78k54.png
+[1/9/2026, 11:40:22] [INFO] [52/100] Processing application...
+[1/9/2026, 11:40:22] [INFO] Applying to: React js Developer @ Diverse Lynx
+[1/9/2026, 11:40:24] [WARN] No apply button found for "React js Developer". Skipping.
+[1/9/2026, 11:40:25] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React js Developer_id_1788243024897_micwbp.png
+[1/9/2026, 11:40:28] [INFO] [53/100] Processing application...
+[1/9/2026, 11:40:28] [INFO] Applying to: React JS Developer @ Nota Bene Global Services
+[1/9/2026, 11:40:31] [WARN] No apply button found for "React JS Developer". Skipping.
+[1/9/2026, 11:40:32] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React JS Developer_id_1788243031529_u2euuk.png
+[1/9/2026, 11:40:35] [INFO] [54/100] Processing application...
+[1/9/2026, 11:40:35] [INFO] Applying to: Fullstack Developer(Node.js + React) @ Ventures Hrd Centre
+[1/9/2026, 11:40:40] [DEBUG] No file upload input found (likely using profile resume).
+[1/9/2026, 11:40:40] [DEBUG] No screening questions popup detected.
+[1/9/2026, 11:40:41] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Fullstack Developer(_id_1788243040779_3v01b3.png
+[1/9/2026, 11:40:41] [SUCCESS] Applied successfully: Fullstack Developer(Node.js + React) @ Ventures Hrd Centre
+[1/9/2026, 11:40:45] [INFO] [55/100] Processing application...
+[1/9/2026, 11:40:45] [INFO] Applying to: React JS Developer @ VOCSO
+[1/9/2026, 11:40:47] [WARN] No apply button found for "React JS Developer". Skipping.
+[1/9/2026, 11:40:48] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React JS Developer_id_1788243047608_xtnapr.png
+[1/9/2026, 11:40:51] [INFO] [56/100] Processing application...
+[1/9/2026, 11:40:51] [INFO] Applying to: React JS Developer @ Sparix Global
+[1/9/2026, 11:40:53] [WARN] No apply button found for "React JS Developer". Skipping.
+[1/9/2026, 11:40:54] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React JS Developer_id_1788243053882_y0ara3.png
+[1/9/2026, 11:40:58] [INFO] [57/100] Processing application...
+[1/9/2026, 11:40:58] [INFO] Applying to: React . js Developer @ Speqto Technologies
+[1/9/2026, 11:41:01] [WARN] No apply button found for "React . js Developer". Skipping.
+[1/9/2026, 11:41:02] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-React . js Developer_id_1788243061558_avnmj1.png
+[1/9/2026, 11:41:06] [INFO] [58/100] Processing application...
+[1/9/2026, 11:41:06] [INFO] Applying to: Full Stack Developer @ Paradise Techsoft Solutions
+[1/9/2026, 11:41:09] [WARN] No apply button found for "Full Stack Developer". Skipping.
+[1/9/2026, 11:41:09] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Full Stack Developer_id_1788243069094_vhdoiq.png
+[1/9/2026, 11:41:13] [INFO] [59/100] Processing application...
+[1/9/2026, 11:41:13] [INFO] Applying to: Mern Full Stack Developer @ Highkeen Technologies
+[1/9/2026, 11:41:18] [SUCCESS] Resume uploaded via file input.
+[1/9/2026, 11:41:18] [WARN] Screening questions popup detected. Please answer manually in the browser window.
+[1/9/2026, 11:42:48] [WARN] Screening popup still open after timeout. Continuing anyway.
+[1/9/2026, 11:42:50] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\applied-Mern Full Stack Deve_id_1788243168586_5oqk5u.png
+[1/9/2026, 11:42:50] [SUCCESS] Applied successfully: Mern Full Stack Developer @ Highkeen Technologies
+[1/9/2026, 11:42:55] [INFO] [60/100] Processing application...
+[1/9/2026, 11:42:55] [INFO] Applying to: MERN Full Stack Developer @ Akra Tech
+[1/9/2026, 11:42:59] [WARN] No apply button found for "MERN Full Stack Developer". Skipping.
+[1/9/2026, 11:43:00] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-MERN Full Stack Deve_id_1788243179589_p3phcs.png
+[1/9/2026, 11:43:04] [INFO] [61/100] Processing application...
+[1/9/2026, 11:43:04] [INFO] Applying to: MERN Full Stack Developer @ Ditinus
+[1/9/2026, 11:43:06] [WARN] No apply button found for "MERN Full Stack Developer". Skipping.
+[1/9/2026, 11:43:07] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-MERN Full Stack Deve_id_1788243186932_iayzhs.png
+[1/9/2026, 11:43:10] [INFO] [62/100] Processing application...
+[1/9/2026, 11:43:10] [INFO] Applying to: MERN Full Stack Developer @ Cloud Counselage
+[1/9/2026, 11:43:13] [WARN] No apply button found for "MERN Full Stack Developer". Skipping.
+[1/9/2026, 11:43:13] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-MERN Full Stack Deve_id_1788243193052_76cl8s.png
+[1/9/2026, 11:43:18] [INFO] [63/100] Processing application...
+[1/9/2026, 11:43:18] [INFO] Applying to: MERN Full Stack Developer @ Xcellence It
+[1/9/2026, 11:43:21] [WARN] No apply button found for "MERN Full Stack Developer". Skipping.
+[1/9/2026, 11:43:21] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-MERN Full Stack Deve_id_1788243201301_49qqbw.png
+[1/9/2026, 11:43:26] [INFO] [64/100] Processing application...
+[1/9/2026, 11:43:26] [INFO] Applying to: MERN Full Stack Developer @ Innovizia Technologies
+[1/9/2026, 11:43:28] [WARN] No apply button found for "MERN Full Stack Developer". Skipping.
+[1/9/2026, 11:43:29] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-MERN Full Stack Deve_id_1788243208993_x5pdwe.png
+[1/9/2026, 11:43:33] [INFO] [65/100] Processing application...
+[1/9/2026, 11:43:33] [INFO] Applying to: Walk-in || Mern Full Stack Developer @ ZA Charity Feed Foundation
+[1/9/2026, 11:43:35] [WARN] No apply button found for "Walk-in || Mern Full Stack Developer". Skipping.
+[1/9/2026, 11:43:36] [ERROR] Failed to capture screenshot: ENOENT: no such file or directory, open 'D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Walk-in || Mern Full_id_1788243215562_ghyx1p.png'
+[1/9/2026, 11:43:39] [INFO] [66/100] Processing application...
+[1/9/2026, 11:43:39] [INFO] Applying to: Full Stack Developer @ Jploft Solutions
+[1/9/2026, 11:43:41] [WARN] No apply button found for "Full Stack Developer". Skipping.
+[1/9/2026, 11:43:42] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Full Stack Developer_id_1788243221522_xwbi5h.png
+[1/9/2026, 11:43:46] [INFO] [67/100] Processing application...
+[1/9/2026, 11:43:46] [INFO] Applying to: Full Stack Developer- MERN @ Voiceoc Innovations
+[1/9/2026, 11:43:48] [WARN] No apply button found for "Full Stack Developer- MERN". Skipping.
+[1/9/2026, 11:43:49] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Full Stack Developer_id_1788243228870_sh12jk.png
+[1/9/2026, 11:43:52] [INFO] [68/100] Processing application...
+[1/9/2026, 11:43:52] [INFO] Applying to: Fullstack Developer with a IT based Co@Coimbatore @ PYC CONSULTANTS
+[1/9/2026, 11:43:55] [WARN] No apply button found for "Fullstack Developer with a IT based Co@Coimbatore". Skipping.
+[1/9/2026, 11:43:56] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Fullstack Developer _id_1788243235489_8ut38j.png
+[1/9/2026, 11:44:00] [INFO] [69/100] Processing application...
+[1/9/2026, 11:44:00] [INFO] Applying to: MERN / MEAN Developer @ Jploft Solutions
+[1/9/2026, 11:44:03] [WARN] No apply button found for "MERN / MEAN Developer". Skipping.
+[1/9/2026, 11:44:04] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-MERN \ MEAN Develope_id_1788243243677_2ms1mr.png
+[1/9/2026, 11:44:08] [INFO] [70/100] Processing application...
+[1/9/2026, 11:44:08] [INFO] Applying to: Mern Full Stack Developer @ Super V Technology
+[1/9/2026, 11:44:11] [WARN] No apply button found for "Mern Full Stack Developer". Skipping.
+[1/9/2026, 11:44:12] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Mern Full Stack Deve_id_1788243251537_n7ya2l.png
+[1/9/2026, 11:44:16] [INFO] [71/100] Processing application...
+[1/9/2026, 11:44:16] [INFO] Applying to: Full Stack Developer ( MERN ) @ Digital Yug Innovation
+[1/9/2026, 11:44:19] [WARN] No apply button found for "Full Stack Developer ( MERN )". Skipping.
+[1/9/2026, 11:44:20] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Full Stack Developer_id_1788243259752_523o2y.png
+[1/9/2026, 11:44:24] [INFO] [72/100] Processing application...
+[1/9/2026, 11:44:24] [INFO] Applying to: Full Stack Developer @ Tantra Track
+[1/9/2026, 11:44:26] [WARN] No apply button found for "Full Stack Developer". Skipping.
+[1/9/2026, 11:44:27] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Full Stack Developer_id_1788243266735_kq9d0x.png
+[1/9/2026, 11:44:31] [INFO] [73/100] Processing application...
+[1/9/2026, 11:44:31] [INFO] Applying to: MERN Full Stack Developer - ATS Services @ ATS Services
+[1/9/2026, 11:44:34] [WARN] No apply button found for "MERN Full Stack Developer - ATS Services". Skipping.
+[1/9/2026, 11:44:35] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-MERN Full Stack Deve_id_1788243274723_hbnu3e.png
+[1/9/2026, 11:44:39] [INFO] [74/100] Processing application...
+[1/9/2026, 11:44:39] [INFO] Applying to: Full Stack Developer ( MERN ) @ Siima Technologies
+[1/9/2026, 11:44:42] [WARN] No apply button found for "Full Stack Developer ( MERN )". Skipping.
+[1/9/2026, 11:44:42] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Full Stack Developer_id_1788243282096_xipoa8.png
+[1/9/2026, 11:44:47] [INFO] [75/100] Processing application...
+[1/9/2026, 11:44:47] [INFO] Applying to: MERN Full Stack Developer @ Innovizia Technologies
+[1/9/2026, 11:44:50] [WARN] No apply button found for "MERN Full Stack Developer". Skipping.
+[1/9/2026, 11:44:51] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-MERN Full Stack Deve_id_1788243290507_grkk0g.png
+[1/9/2026, 11:44:55] [INFO] [76/100] Processing application...
+[1/9/2026, 11:44:55] [INFO] Applying to: Full Stack Developer (MERN) @ Fablead Developers Technolab
+[1/9/2026, 11:44:58] [WARN] No apply button found for "Full Stack Developer (MERN)". Skipping.
+[1/9/2026, 11:44:58] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Full Stack Developer_id_1788243298138_xhh5wb.png
+[1/9/2026, 11:45:02] [INFO] [77/100] Processing application...
+[1/9/2026, 11:45:02] [INFO] Applying to: Backend Developer @ Transverser Labs
+[1/9/2026, 11:45:04] [WARN] No apply button found for "Backend Developer". Skipping.
+[1/9/2026, 11:45:05] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1788243304951_05vkzb.png
+[1/9/2026, 11:45:10] [INFO] [78/100] Processing application...
+[1/9/2026, 11:45:10] [INFO] Applying to: Backend Developer @ JB Arrowstar Solutions
+[1/9/2026, 11:45:12] [WARN] No apply button found for "Backend Developer". Skipping.
+[1/9/2026, 11:45:13] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1788243312580_aos0ug.png
+[1/9/2026, 11:45:16] [INFO] [79/100] Processing application...
+[1/9/2026, 11:45:16] [INFO] Applying to: Backend Developer @ Capgemini
+[1/9/2026, 11:45:19] [WARN] No apply button found for "Backend Developer". Skipping.
+[1/9/2026, 11:45:19] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1788243319015_tro4f3.png
+[1/9/2026, 11:45:22] [INFO] [80/100] Processing application...
+[1/9/2026, 11:45:22] [INFO] Applying to: Backend developer @ Markschamp
+[1/9/2026, 11:45:25] [WARN] No apply button found for "Backend developer". Skipping.
+[1/9/2026, 11:45:25] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend developer_id_1788243325059_dyzow5.png
+[1/9/2026, 11:45:28] [INFO] [81/100] Processing application...
+[1/9/2026, 11:45:28] [INFO] Applying to: Backend Developer @ Spring Edge
+[1/9/2026, 11:45:30] [WARN] No apply button found for "Backend Developer". Skipping.
+[1/9/2026, 11:45:31] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1788243330905_8byevl.png
+[1/9/2026, 11:45:35] [INFO] [82/100] Processing application...
+[1/9/2026, 11:45:35] [INFO] Applying to: Backend Developer @ Mitigata Insurance
+[1/9/2026, 11:45:38] [WARN] No apply button found for "Backend Developer". Skipping.
+[1/9/2026, 11:45:38] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1788243338054_opsj8t.png
+[1/9/2026, 11:45:41] [INFO] [83/100] Processing application...
+[1/9/2026, 11:45:41] [INFO] Applying to: backend developer @ iii Consultig
+[1/9/2026, 11:45:44] [WARN] No apply button found for "backend developer". Skipping.
+[1/9/2026, 11:45:45] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-backend developer_id_1788243344434_5ik43y.png
+[1/9/2026, 11:45:49] [INFO] [84/100] Processing application...
+[1/9/2026, 11:45:49] [INFO] Applying to: Backend Developer @ iii Consultig
+[1/9/2026, 11:45:51] [WARN] No apply button found for "Backend Developer". Skipping.
+[1/9/2026, 11:45:52] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1788243351876_ljhmhj.png
+[1/9/2026, 11:45:55] [INFO] [85/100] Processing application...
+[1/9/2026, 11:45:55] [INFO] Applying to: backend developer @ Sutraa Technosoft
+[1/9/2026, 11:45:58] [WARN] No apply button found for "backend developer". Skipping.
+[1/9/2026, 11:45:59] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-backend developer_id_1788243358387_jd06ww.png
+[1/9/2026, 11:46:02] [INFO] [86/100] Processing application...
+[1/9/2026, 11:46:02] [INFO] Applying to: BackEnd Developer @ Epic Web Techno
+[1/9/2026, 11:46:04] [WARN] No apply button found for "BackEnd Developer". Skipping.
+[1/9/2026, 11:46:05] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-BackEnd Developer_id_1788243364380_zgpprn.png
+[1/9/2026, 11:46:09] [INFO] [87/100] Processing application...
+[1/9/2026, 11:46:09] [INFO] Applying to: Backend Developer @ Zenith Software
+[1/9/2026, 11:46:11] [WARN] No apply button found for "Backend Developer". Skipping.
+[1/9/2026, 11:46:12] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1788243371675_fj71kg.png
+[1/9/2026, 11:46:15] [INFO] [88/100] Processing application...
+[1/9/2026, 11:46:15] [INFO] Applying to: Backend Developer @ Envirum Nature
+[1/9/2026, 11:46:17] [WARN] No apply button found for "Backend Developer". Skipping.
+[1/9/2026, 11:46:18] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1788243377857_i5b0i6.png
+[1/9/2026, 11:46:22] [INFO] [89/100] Processing application...
+[1/9/2026, 11:46:22] [INFO] Applying to: Backend Developer @ Capgemini
+[1/9/2026, 11:46:25] [WARN] No apply button found for "Backend Developer". Skipping.
+[1/9/2026, 11:46:26] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1788243385400_vgj6ft.png
+[1/9/2026, 11:46:30] [INFO] [90/100] Processing application...
+[1/9/2026, 11:46:30] [INFO] Applying to: Backend Developer @ Digi Opera
+[1/9/2026, 11:46:32] [WARN] No apply button found for "Backend Developer". Skipping.
+[1/9/2026, 11:46:33] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1788243392466_ff9pmb.png
+[1/9/2026, 11:46:37] [INFO] [91/100] Processing application...
+[1/9/2026, 11:46:37] [INFO] Applying to: Backend Developer @ Prodat It Solutions
+[1/9/2026, 11:46:39] [WARN] No apply button found for "Backend Developer". Skipping.
+[1/9/2026, 11:46:40] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1788243399773_m3rf16.png
+[1/9/2026, 11:46:44] [INFO] [92/100] Processing application...
+[1/9/2026, 11:46:44] [INFO] Applying to: Backend Developer @ Fleetronix Systems
+[1/9/2026, 11:46:46] [WARN] No apply button found for "Backend Developer". Skipping.
+[1/9/2026, 11:46:47] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1788243406985_pldkv4.png
+[1/9/2026, 11:46:51] [INFO] [93/100] Processing application...
+[1/9/2026, 11:46:51] [INFO] Applying to: Backend Developer @ Yugasys Software
+[1/9/2026, 11:46:53] [WARN] No apply button found for "Backend Developer". Skipping.
+[1/9/2026, 11:46:53] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1788243413369_o4p0d1.png
+[1/9/2026, 11:46:57] [INFO] [94/100] Processing application...
+[1/9/2026, 11:46:57] [INFO] Applying to: BACKEND DEVELOPER @ Certum Ventures
+[1/9/2026, 11:47:00] [WARN] No apply button found for "BACKEND DEVELOPER". Skipping.
+[1/9/2026, 11:47:01] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-BACKEND DEVELOPER_id_1788243420566_es5mxp.png
+[1/9/2026, 11:47:05] [INFO] [95/100] Processing application...
+[1/9/2026, 11:47:05] [INFO] Applying to: Backend Developer @ Zipaworld Innovation
+[1/9/2026, 11:47:08] [WARN] No apply button found for "Backend Developer". Skipping.
+[1/9/2026, 11:47:08] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Backend Developer_id_1788243428113_xx7q8k.png
+[1/9/2026, 11:47:13] [INFO] [96/100] Processing application...
+[1/9/2026, 11:47:13] [INFO] Applying to: Software Engineer @ Capgemini
+[1/9/2026, 11:47:15] [WARN] No apply button found for "Software Engineer". Skipping.
+[1/9/2026, 11:47:16] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer_id_1788243435544_kht2og.png
+[1/9/2026, 11:47:20] [INFO] [97/100] Processing application...
+[1/9/2026, 11:47:20] [INFO] Applying to: Trainee Software Engineers – Freshers @ Razorthink
+[1/9/2026, 11:47:22] [WARN] No apply button found for "Trainee Software Engineers – Freshers". Skipping.
+[1/9/2026, 11:47:23] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Trainee Software Eng_id_1788243442617_tenipa.png
+[1/9/2026, 11:47:26] [INFO] [98/100] Processing application...
+[1/9/2026, 11:47:26] [INFO] Applying to: C++ Software Engineer @ Citadel Securities
+[1/9/2026, 11:47:29] [WARN] No apply button found for "C++ Software Engineer". Skipping.
+[1/9/2026, 11:47:30] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-C++ Software Enginee_id_1788243449384_x60kge.png
+[1/9/2026, 11:47:33] [INFO] [99/100] Processing application...
+[1/9/2026, 11:47:33] [INFO] Applying to: Ground Software Engineer @ AST Science
+[1/9/2026, 11:47:36] [WARN] No apply button found for "Ground Software Engineer". Skipping.
+[1/9/2026, 11:47:37] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Ground Software Engi_id_1788243456771_cixluh.png
+[1/9/2026, 11:47:41] [INFO] [100/100] Processing application...
+[1/9/2026, 11:47:41] [INFO] Applying to: Software Engineer @ Creative Hands HR
+[1/9/2026, 11:47:45] [WARN] No apply button found for "Software Engineer". Skipping.
+[1/9/2026, 11:47:45] [DEBUG] Screenshot saved: D:\Ai-Job-Search-hunter\screenshots\no-apply-button-Software Engineer_id_1788243465004_luuz55.png
+[1/9/2026, 11:48:01] [SUCCESS] 9/100 application(s) submitted.
+[1/9/2026, 11:48:01] [SUCCESS] ✅ PHASE 6 PIPELINE RUN COMPLETE.
+[1/9/2026, 11:48:01] [WARN] Browser context closed.
+[1/9/2026, 11:48:02] [SUCCESS] Browser closed gracefully.
+[1/9/2026, 11:48:02] [INFO] MongoDB connection closed.
